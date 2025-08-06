@@ -1,0 +1,125 @@
+#id name color stars type class power attr
+#white 1*
+101;White Wpn Wis;White;1;Weapon;Wisdom;;x
+102;Wooden Longbow;White;1;Weapon;Agility;;x
+103;White Wpn Str;White;1;Weapon;Strength;;x
+104;White Armor Wis;White;1;Armor;Wisdom;;x
+105;White Armor Agl;White;1;Armor;Agility;;x
+106;White Armor Str;White;1;Armor;Strength;;x
+107;White Shoe Wis;White;1;Shoe;Wisdom;;x
+108;White Shoe Agl;White;1;Shoe;Agility;;x
+109;White Shoe Str;White;1;Shoe;Strength;;x
+110;White Accs Wis;White;1;Accessory;Wisdom;;x
+111;White Accs Agl;White;1;Accessory;Agility;;x
+112;White Accs Str;White;1;Accessory;Strength;;x
+
+#white 2*
+113;White Wpn Wis;White;2;Weapon;Wisdom;;x
+114;Wooden Longbow;White;2;Weapon;Agility;12;26 HP, 10 ATK
+115;White Wpn Str;White;2;Weapon;Strength;;x
+116;White Armor Wis;White;2;Armor;Wisdom;;x
+117;White Armor Agl;White;2;Armor;Agility;;x
+118;White Armor Str;White;2;Armor;Strength;;x
+119;White Shoe Wis;White;2;Shoe;Wisdom;;x
+120;White Shoe Agl;White;2;Shoe;Agility;;x
+121;White Shoe Str;White;2;Shoe;Strength;;x
+122;White Accs Wis;White;2;Accessory;Wisdom;;x
+123;White Accs Agl;White;2;Accessory;Agility;;x
+124;White Accs Str;White;2;Accessory;Strength;;x
+
+
+
+#green 1*
+201;Normal Magic Staff;Green;1;Weapon;Wisdom;17;18 ATK
+202;Fine Longbow;Green;1;Weapon;Agility;23;50 HP, 18 ATK
+203;Bravery Dagger;Green;1;Weapon;Strength;;x
+204;Cape;Green;1;Armor;Wisdom;31;180 HP, 10 DEF
+205;Cape;Green;1;Armor;Agility;31;180 HP, 10 DEF
+206;Linen Top;Green;1;Armor;Strength;34;200 HP, 10 DEF
+207;Flax Ankle Boots;Green;1;Shoe;Wisdom;;x
+208;Flax Ankle Boots;Green;1;Shoe;Agility;;x
+209;Flax Ankle Boots;Green;1;Shoe;Strength;;x
+210;Jackdaw Necklace;Green;1;Accessory;Wisdom;29;175 HP, 10 ATK
+211;Green Accs Agl 1*;Green;1;Accessory;Agility;;x
+212;Elemental Ring;Green;1;Accessory;Strength;38;300 HP, 6 ATK
+
+#green 2* COMPLETE
+213;Normal Magic Staff;Green;2;Weapon;Wisdom;29;30 ATK
+214;Fine Longbow;Green;2;Weapon;Agility;38;80 HP, 30 ATK
+215;Bravery Dagger;Green;2;Weapon;Strength;26;22 ATK, 4 DEF
+216;Cape;Green;2;Armor;Wisdom;47;270 HP, 15 DEF
+217;Cape;Green;2;Armor;Agility;50;280 HP, 16 DEF
+218;Linen Top;Green;2;Armor;Strength;53;320 HP, 15 DEF
+219;Flax Ankle Boots;Green;2;Shoe;Wisdom;39;140 HP, 20 ATK, 4 DEF
+220;Flax Ankle Boots;Green;2;Shoe;Agility;32;110 HP, 14 ATK, 6 DEF
+221;Flax Ankle Boots;Green;2;Shoe;Strength;37;140 HP, 13 ATK, 8 DEF
+222;Jackdaw Necklace;Green;2;Accessory;Wisdom;44;270 HP, 15 ATK
+223;Wooden Ring;Green;2;Accessory;Agility;44;270 HP, 15 ATK
+224;Elemental Ring;Green;2;Accessory;Strength;59;460 HP, 9 ATK
+
+
+
+#blue 1* COMPLETE
+301;Bravery Magic Staff;Blue;1;Weapon;Wisdom;39;40  ATK
+302;Bravery Longbow;Blue;1;Weapon;Agility;50;100 HP, 40 ATK
+303;Sharp Shortsword;Blue;1;Weapon;Strength;36;30 ATK, 6 DEF
+304;Light Leather Vest;Blue;1;Armor;Wisdom;66;390 HP, 20 DEF
+305;Light Leather Vest;Blue;1;Armor;Agility;72;400 HP, 24 DEF
+306;Bravery Top;Blue;1;Armor;Strength;74;460 HP, 20 DEF
+307;Hard-Leather Boots;Blue;1;Shoe;Wisdom;57;200 HP, 30 ATK, 5 DEF
+308;Hard-Leather Boots;Blue;1;Shoe;Agility;46;160 HP, 20 ATK, 8 DEF
+309;Hard-Leather Boots;Blue;1;Shoe;Strength;53;200 HP, 18 ATK, 12 DEF
+310;Glowstone Necklace;Blue;1;Accessory;Wisdom;64;390 HP, 22 ATK
+311;Glowstone Ring;Blue;1;Accessory;Agility;63;400 HP, 20 ATK
+312;Ring of Bravery;Blue;1;Accessory;Strength;84;650 HP, 13 ATK
+
+#blue 2* COMPLETE
+313;Bravery Magic Staff;Blue;2;Weapon;Wisdom;53;55 ATK
+314;Bravery Longbow;Blue;2;Weapon;Agility;69;140 HP, 55 ATK
+315;Sharp Shortsword;Blue;2;Weapon;Strength;48;40 ATK, 8 DEF
+316;Light Leather Vest;Blue;2;Armor;Wisdom;89;530 HP, 26 DEF
+317;Light Leather Vest;Blue;2;Armor;Agility;94;530 HP, 30 DEF
+318;Bravery Top;Blue;2;Armor;Strength;100;610 HP, 28 DEF
+319;Hard-Leather Boots;Blue;2;Shoe;Wisdom;77;270 HP, 40 ATK, 7 DEF
+320;Hard-Leather Boots;Blue;2;Shoe;Agility;64;210 HP, 30 ATK, 10 DEF
+321;Hard-Leather Boots;Blue;2;Shoe;Strength;73;270 HP, 25 ATK, 16 DEF
+322;Glowstone Necklace;Blue;2;Accessory;Wisdom;87;525 HP, 30 ATK
+323;Glowstone Ring;Blue;2;Accessory;Agility;85;530 HP, 28 ATK
+324;Ring of Bravery;Blue;2;Accessory;Strength;113;880 HP, 17 ATK
+
+
+
+#purple 1* COMPLETE
+401;Magic Staff of the Fearless;Purple;1;Weapon;Wisdom;97;100 ATK, 0.6% ARMOR PIERCE
+402;Crossbow of the Fearless;Purple;1;Weapon;Agility;118;280 HP, 90 ATK, 0.6% CRIT
+403;Spear of the Fearless;Purple;1;Weapon;Strength;83;70 ATK, 13 DEF, 0.6% CRIT IMN
+404;Adventurer Hide;Purple;1;Armor;Wisdom;162;1000 HP, 44 DEF
+405;Adventurer Hide;Purple;1;Armor;Agility;173;1000 HP, 53 DEF
+406;Adventurer Light Vest;Purple;1;Armor;Strength;;1200 HP, 46 DEF
+407;Adventurer Footwraps;Purple;1;Shoe;Wisdom;132;510 HP, 65 ATK, 11 DEF
+408;Adventurer Footwraps;Purple;1;Shoe;Agility;115;410 HP, 50 ATK, 18 DEF
+409;Adventurer Footwraps;Purple;1;Shoe;Strength;135;520 HP, 50 ATK, 25 DEF
+410;Sapphire Pendant;Purple;1;Accessory;Wisdom;158;1000 HP, 50 ATK
+411;Sapphire Ring;Purple;1;Accessory;Agility;158;1000 HP, 50 ATK
+412;Adventurer Ring;Purple;1;Accessory;Strength;216;1700 HP, 30 ATK
+
+#purple 2* COMPLETE
+413;Magic Staff of the Fearless;Purple;2;Weapon;Wisdom;146;150 ATK, 1.2% ARMOR PIERCE
+414;Crossbow of the Fearless;Purple;2;Weapon;Agility;183;430 HP, 140 ATK, 1.2% CRIT RATE
+415;Spear of the Fearless;Purple;2;Weapon;Strength;131;110 ATK, 20 DEF, 1.2% CRIT IMN
+416;Adventurer Hide;Purple;2;Armor;Wisdom;257;1600 HP, 68 DEF
+417;Adventurer Hide;Purple;2;Armor;Agility;272;1600 HP, 80 DEF
+418;Adventurer Light Vest;Purple;2;Armor;Strength;295;1900 HP, 72 DEF
+419;Adventurer Footwraps;Purple;2;Shoe;Wisdom;205;800 HP, 100 ATK, 17 DEF
+420;Adventurer Footwraps;Purple;2;Shoe;Agility;171;640 HP, 70 ATK, 27 DEF
+421;Adventurer Footwraps;Purple;2;Shoe;Strength;203;790 HP, 70 ATK, 40 DEF
+422;Sapphire Pendant;Purple;2;Accessory;Wisdom;254;1600 HP, 80 ATK
+423;Sapphire Ring;Purple;2;Accessory;Agility;244;1600 HP, 70 ATK
+424;Adventurer Ring;Purple;2;Accessory;Strength;329;2600 HP, 45 ATK
+
+
+#orange 1* 
+#orange 2* 
+#orange 3* 
+
+#red

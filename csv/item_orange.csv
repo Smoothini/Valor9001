@@ -1,0 +1,259 @@
+#id name color stars type class power attr class_attr
+
+#orange 1* NO FACTION, DONE
+5001;Magic Staff of Wisdom;Orange;1;Weapon;Wisdom;351;360 ATK, 2.1% ARMR PIERCE
+5002;Whistling Crossbow;Orange;1;Weapon;Agility;462;1100 HP, 350 ATK, 2.1% CRIT
+5003;Guardian's Sword;Orange;1;Weapon;Strength;333;280 ATK, 50 DEF, 2.1% CRIT
+5004;Cape of Wisdom;Orange;1;Armor;Wisdom;644;4000 HP, 170 DEF
+5005;Whistling Top;Orange;1;Armor;Agility;680;4000 HP, 200 DEF
+5006;Guardian's Armor;Orange;1;Armor;Strength;722;4600 HP, 180 DEF
+5007;Footwraps of Wisdom;Orange;1;Shoe;Wisdom;508;2000 HP, 240 ATK, 45 DEF
+5008;Whitsling Boots;Orange;1;Shoe;Agility;435;1600 HP, 180 ATK, 70 DEF
+5009;Guardian's Boots;Orange;1;Shoe;Strength;505;2000 HP, 170 ATK, 100 DEF
+5010;Necklace of Wisdom;Orange;1;Accessory;Wisdom;635;4000 HP, 200 ATK
+5011;Whistling Ring;Orange;1;Accessory;Agility;615;4000 HP, 180 ATK
+5012;Ring of the Guardian;Orange;1;Accessory;Strength;833;6600 HP, 110 ATK
+
+#orange 1* UNDEAD
+5101;Orange WPON WIZ UNDEAD;Orange;1;Weapon;Wisdom
+5102;Orange WPON AGL UNDEAD;Orange;1;Weapon;Agility
+5103;Orange WPON STR UNDEAD;Orange;1;Weapon;Strength
+5104;Cape of Wraith;Orange;1;Armor;Wisdom
+5105;Orange ARMR AGL UNDEAD;Orange;1;Armor;Agility
+5106;Dusk Armor;Orange;1;Armor;Strength
+5107;Orange SHOE WIZ UNDEAD;Orange;1;Shoe;Wisdom
+5108;Boots of Silent Night;Orange;1;Shoe;Agility
+5109;Orange SHOE STR UNDEAD;Orange;1;Shoe;Strength
+5110;Heart of the Dead;Orange;1;Accessory;Wisdom
+5111;Orange ACCS AGL UNDEAD;Orange;1;Accessory;Agility
+5112;Dusk Ring;Orange;1;Accessory;Strength
+
+#orange 1* LEGION
+5201;Magic Staff of Academy;Orange;1;Weapon;Wisdom
+5202;Crossbow of Praetorian Guard;Orange;1;Weapon;Agility
+5203;Sword of Justice;Orange;1;Weapon;Strength
+5204;Cape of Academy;Orange;1;Armor;Wisdom
+5205;Praetorian Guard Top;Orange;1;Armor;Agility
+5206;Orange ARMR STR LEGION;Orange;1;Armor;Strength
+5207;Footwraps of Academy;Orange;1;Shoe;Wisdom
+5208;Boots of Praetorian Guard;Orange;1;Shoe;Agility
+5209;Orange SHOE STR LEGION;Orange;1;Shoe;Strength
+5210;Necklace of Academy;Orange;1;Accessory;Wisdom
+5211;Orange ACCS AGL LEGION;Orange;1;Accessory;Agility
+5212;Ring of Justice;Orange;1;Accessory;Strength
+
+#orange 1* FOREST
+5301;Element Staff;Orange;1;Weapon;Wisdom
+5302;Traveler's Crossbow;Orange;1;Weapon;Agility
+5303;Vitality Sword;Orange;1;Weapon;Strength
+5304;Orange ARMR WIZ FOREST;Orange;1;Armor;Wisdom
+5305;Orange ARMR AGL FOREST;Orange;1;Armor;Agility
+5306;Vitality Armor;Orange;1;Armor;Strength
+5307;Elemental Footguards;Orange;1;Shoe;Wisdom
+5308;Traveler's Boots;Orange;1;Shoe;Agility
+5309;Orange SHOE STR FOREST;Orange;1;Shoe;Strength
+5310;Element Necklace;Orange;1;Accessory;Wisdom
+5311;Traveler's Ring;Orange;1;Accessory;Agility
+5312;Orange ACCS STR FOREST;Orange;1;Accessory;Strength
+
+#orange 1* SHADOW
+5401;Orange WPON WIZ SHADOW;Orange;1;Weapon;Wisdom
+5402;Orange WPON AGL SHADOW;Orange;1;Weapon;Agility
+5403;Longsword of Zeal;Orange;1;Weapon;Strength
+5404;Cape of Constrain;Orange;1;Armor;Wisdom
+5405;Tearer Top;Orange;1;Armor;Agility
+5406;Orange ARMR STR SHADOW;Orange;1;Armor;Strength
+5407;Footwraps of Constrain;Orange;1;Shoe;Wisdom
+5408;Orange SHOE AGL SHADOW;Orange;1;Shoe;Agility
+5409;Boots of Zeal;Orange;1;Shoe;Strength
+5410;Orange ACCS WIZ SHADOW;Orange;1;Accessory;Wisdom
+5411;Tearer Ring;Orange;1;Accessory;Agility
+5412;Orange ACCS STR SHADOW;Orange;1;Accessory;Strength
+
+#orange 1* LIGHT
+5501;Orange WPON WIZ LIGHT;Orange;1;Weapon;Wisdom
+5502;Orange WPON AGL LIGHT;Orange;1;Weapon;Agility
+5503;Orange WPON STR LIGHT;Orange;1;Weapon;Strength
+5504;Mysterious Cape;Orange;1;Armor;Wisdom
+5505;Creed Top;Orange;1;Armor;Agility
+5506;Orange ARMR STR LIGHT;Orange;1;Armor;Strength
+5507;Mysterious Footwraps;Orange;1;Shoe;Wisdom
+5508;Boots of Creed;Orange;1;Shoe;Agility
+5509;Ankle Boots of Dawn;Orange;1;Shoe;Strength
+5510;Mysterious Necklace;Orange;1;Accessory;Wisdom
+5511;Ring of Creed;Orange;1;Accessory;Agility
+5512;Orange ACCS STR LIGHT;Orange;1;Accessory;Strength
+
+
+
+
+#orange 2* NO FACTION
+5013;Magic Staff of Wisdom;Orange;2;Weapon;Wisdom;585;600 ATK, 2.8% ARMR PIERCE
+5014;Orange WPON AGL NOFAC;Orange;2;Weapon;Agility;462;1100 HP, 350 ATK, 2.1% CRIT
+5015;Guardian's Sword;Orange;2;Weapon;Strength;559;470 ATK, 84 DEF, 2.8% CRIT IMN
+5016;Orange ARMR WIZ NOFAC;Orange;2;Armor;Wisdom;1074;6600 HP, 290 DEF
+5017;Orange ARMR AGL NOFAC;Orange;2;Armor;Agility;1145;6700 HP, 340 DEF
+5018;Guardian's Armor;Orange;2;Armor;Strength;1218;7800 HP, 300 DEF
+5019;Orange SHOE WIZ NOFAC;Orange;2;Shoe;Wisdom;854;3400 HP, 400 ATK, 75 DEF
+5020;Orange SHOE AGL NOFAC;Orange;2;Shoe;Agility;733;2700 HP, 300 ATK, 120 DEF
+5021;Orange SHOE STR NOFAC;Orange;2;Shoe;Strength;851;3400 HP, 280 ATK, 170 DEF
+5022;Orange ACCS WIZ NOFAC;Orange;2;Accessory;Wisdom;1057;6600 HP, 340 ATK
+5023;Whistling Ring;Orange;2;Accessory;Agility;1029;6700 HP, 300 ATK
+5024;Orange ACCS STR NOFAC;Orange;2;Accessory;Strength;1390;11000 HP, 185 ATK
+
+#orange 2* UNDEAD
+5113;Orange WPON WIZ UNDEAD;Orange;2;Weapon;Wisdom
+5114;Orange WPON AGL UNDEAD;Orange;2;Weapon;Agility
+5115;Orange WPON STR UNDEAD;Orange;2;Weapon;Strength
+5116;Orange ARMR WIZ UNDEAD;Orange;2;Armor;Wisdom
+5117;Orange ARMR AGL UNDEAD;Orange;2;Armor;Agility
+5118;Orange ARMR STR UNDEAD;Orange;2;Armor;Strength
+5119;Orange SHOE WIZ UNDEAD;Orange;2;Shoe;Wisdom
+5120;Orange SHOE AGL UNDEAD;Orange;2;Shoe;Agility
+5121;Orange SHOE STR UNDEAD;Orange;2;Shoe;Strength
+5122;Orange ACCS WIZ UNDEAD;Orange;2;Accessory;Wisdom
+5123;Orange ACCS AGL UNDEAD;Orange;2;Accessory;Agility
+5124;Orange ACCS STR UNDEAD;Orange;2;Accessory;Strength
+
+#orange 2* LEGION
+5213;Orange WPON WIZ LEGION;Orange;2;Weapon;Wisdom
+5214;Orange WPON AGL LEGION;Orange;2;Weapon;Agility
+5215;Orange WPON STR LEGION;Orange;2;Weapon;Strength
+5216;Orange ARMR WIZ LEGION;Orange;2;Armor;Wisdom
+5217;Orange ARMR AGL LEGION;Orange;2;Armor;Agility
+5218;Orange ARMR STR LEGION;Orange;2;Armor;Strength
+5219;Orange SHOE WIZ LEGION;Orange;2;Shoe;Wisdom
+5220;Orange SHOE AGL LEGION;Orange;2;Shoe;Agility
+5221;Orange SHOE STR LEGION;Orange;2;Shoe;Strength
+5222;Orange ACCS WIZ LEGION;Orange;2;Accessory;Wisdom
+5223;Orange ACCS AGL LEGION;Orange;2;Accessory;Agility
+5224;Orange ACCS STR LEGION;Orange;2;Accessory;Strength
+
+#orange 2* FOREST
+5313;Orange WPON WIZ FOREST;Orange;2;Weapon;Wisdom
+5314;Orange WPON AGL FOREST;Orange;2;Weapon;Agility
+5315;Orange WPON STR FOREST;Orange;2;Weapon;Strength
+5316;Orange ARMR WIZ FOREST;Orange;2;Armor;Wisdom
+5317;Orange ARMR AGL FOREST;Orange;2;Armor;Agility
+5318;Orange ARMR STR FOREST;Orange;2;Armor;Strength
+5319;Orange SHOE WIZ FOREST;Orange;2;Shoe;Wisdom
+5320;Orange SHOE AGL FOREST;Orange;2;Shoe;Agility
+5321;Orange SHOE STR FOREST;Orange;2;Shoe;Strength
+5322;Orange ACCS WIZ FOREST;Orange;2;Accessory;Wisdom
+5323;Orange ACCS AGL FOREST;Orange;2;Accessory;Agility
+5324;Orange ACCS STR FOREST;Orange;2;Accessory;Strength
+
+#orange 2* SHADOW
+5413;Orange WPON WIZ SHADOW;Orange;2;Weapon;Wisdom
+5414;Orange WPON AGL SHADOW;Orange;2;Weapon;Agility
+5415;Orange WPON STR SHADOW;Orange;2;Weapon;Strength
+5416;Orange ARMR WIZ SHADOW;Orange;2;Armor;Wisdom
+5417;Orange ARMR AGL SHADOW;Orange;2;Armor;Agility
+5418;Orange ARMR STR SHADOW;Orange;2;Armor;Strength
+5419;Orange SHOE WIZ SHADOW;Orange;2;Shoe;Wisdom
+5420;Orange SHOE AGL SHADOW;Orange;2;Shoe;Agility
+5421;Orange SHOE STR SHADOW;Orange;2;Shoe;Strength
+5422;Orange ACCS WIZ SHADOW;Orange;2;Accessory;Wisdom
+5423;Orange ACCS AGL SHADOW;Orange;2;Accessory;Agility
+5424;Orange ACCS STR SHADOW;Orange;2;Accessory;Strength
+
+#orange 2* LIGHT
+5513;Orange WPON WIZ LIGHT;Orange;2;Weapon;Wisdom
+5514;Orange WPON AGL LIGHT;Orange;2;Weapon;Agility
+5515;Orange WPON STR LIGHT;Orange;2;Weapon;Strength
+5516;Mysterious Cape;Orange;2;Armor;Wisdom
+5517;Orange ARMR AGL LIGHT;Orange;2;Armor;Agility
+5518;Orange ARMR STR LIGHT;Orange;2;Armor;Strength
+5519;Orange SHOE WIZ LIGHT;Orange;2;Shoe;Wisdom
+5520;Orange SHOE AGL LIGHT;Orange;2;Shoe;Agility
+5521;Orange SHOE STR LIGHT;Orange;2;Shoe;Strength
+5522;Orange ACCS WIZ LIGHT;Orange;2;Accessory;Wisdom
+5523;Orange ACCS AGL LIGHT;Orange;2;Accessory;Agility
+5524;Orange ACCS STR LIGHT;Orange;2;Accessory;Strength
+
+
+
+
+#orange 3* NO FACTION
+5025;Orange WPON WIZ NOFAC;Orange;3;Weapon;Wisdom;;x
+5026;Orange WPON AGL NOFAC;Orange;3;Weapon;Agility;;x
+5027;Orange WPON STR NOFAC;Orange;3;Weapon;Strength;;x
+5028;Orange ARMR WIZ NOFAC;Orange;3;Armor;Wisdom;;x
+5029;Orange ARMR AGL NOFAC;Orange;3;Armor;Agility;;x
+5030;Orange ARMR STR NOFAC;Orange;3;Armor;Strength;;x
+5031;Orange SHOE WIZ NOFAC;Orange;3;Shoe;Wisdom;;x
+5032;Orange SHOE AGL NOFAC;Orange;3;Shoe;Agility;;x
+5033;Orange SHOE STR NOFAC;Orange;3;Shoe;Strength;;x
+5034;Orange ACCS WIZ NOFAC;Orange;3;Accessory;Wisdom;;x
+5035;Orange ACCS AGL NOFAC;Orange;3;Accessory;Agility;;x
+5036;Orange ACCS STR NOFAC;Orange;3;Accessory;Strength;;x
+
+#orange 3* UNDEAD
+5125;Orange WPON WIZ UNDEAD;Orange;3;Weapon;Wisdom
+5126;Orange WPON AGL UNDEAD;Orange;3;Weapon;Agility
+5127;Orange WPON STR UNDEAD;Orange;3;Weapon;Strength
+5128;Orange ARMR WIZ UNDEAD;Orange;3;Armor;Wisdom
+5129;Orange ARMR AGL UNDEAD;Orange;3;Armor;Agility
+5130;Orange ARMR STR UNDEAD;Orange;3;Armor;Strength
+5131;Orange SHOE WIZ UNDEAD;Orange;3;Shoe;Wisdom
+5132;Orange SHOE AGL UNDEAD;Orange;3;Shoe;Agility
+5133;Orange SHOE STR UNDEAD;Orange;3;Shoe;Strength
+5134;Orange ACCS WIZ UNDEAD;Orange;3;Accessory;Wisdom
+5135;Orange ACCS AGL UNDEAD;Orange;3;Accessory;Agility
+5136;Orange ACCS STR UNDEAD;Orange;3;Accessory;Strength
+
+#orange 3* LEGION
+5225;Orange WPON WIZ LEGION;Orange;3;Weapon;Wisdom
+5226;Orange WPON AGL LEGION;Orange;3;Weapon;Agility
+5227;Orange WPON STR LEGION;Orange;3;Weapon;Strength
+5228;Orange ARMR WIZ LEGION;Orange;3;Armor;Wisdom
+5229;Orange ARMR AGL LEGION;Orange;3;Armor;Agility
+5230;Orange ARMR STR LEGION;Orange;3;Armor;Strength
+5231;Orange SHOE WIZ LEGION;Orange;3;Shoe;Wisdom
+5232;Orange SHOE AGL LEGION;Orange;3;Shoe;Agility
+5233;Orange SHOE STR LEGION;Orange;3;Shoe;Strength
+5234;Orange ACCS WIZ LEGION;Orange;3;Accessory;Wisdom
+5235;Orange ACCS AGL LEGION;Orange;3;Accessory;Agility
+5236;Orange ACCS STR LEGION;Orange;3;Accessory;Strength
+
+#orange 3* FOREST
+5325;Orange WPON WIZ FOREST;Orange;3;Weapon;Wisdom
+5326;Orange WPON AGL FOREST;Orange;3;Weapon;Agility
+5327;Orange WPON STR FOREST;Orange;3;Weapon;Strength
+5328;Orange ARMR WIZ FOREST;Orange;3;Armor;Wisdom
+5329;Orange ARMR AGL FOREST;Orange;3;Armor;Agility
+5330;Orange ARMR STR FOREST;Orange;3;Armor;Strength
+5331;Orange SHOE WIZ FOREST;Orange;3;Shoe;Wisdom
+5332;Orange SHOE AGL FOREST;Orange;3;Shoe;Agility
+5333;Orange SHOE STR FOREST;Orange;3;Shoe;Strength
+5334;Orange ACCS WIZ FOREST;Orange;3;Accessory;Wisdom
+5335;Orange ACCS AGL FOREST;Orange;3;Accessory;Agility
+5336;Orange ACCS STR FOREST;Orange;3;Accessory;Strength
+
+#orange 3* SHADOW
+5425;Orange WPON WIZ SHADOW;Orange;3;Weapon;Wisdom
+5426;Orange WPON AGL SHADOW;Orange;3;Weapon;Agility
+5427;Orange WPON STR SHADOW;Orange;3;Weapon;Strength
+5428;Orange ARMR WIZ SHADOW;Orange;3;Armor;Wisdom
+5429;Orange ARMR AGL SHADOW;Orange;3;Armor;Agility
+5430;Orange ARMR STR SHADOW;Orange;3;Armor;Strength
+5431;Orange SHOE WIZ SHADOW;Orange;3;Shoe;Wisdom
+5432;Orange SHOE AGL SHADOW;Orange;3;Shoe;Agility
+5433;Orange SHOE STR SHADOW;Orange;3;Shoe;Strength
+5434;Orange ACCS WIZ SHADOW;Orange;3;Accessory;Wisdom
+5435;Orange ACCS AGL SHADOW;Orange;3;Accessory;Agility
+5436;Orange ACCS STR SHADOW;Orange;3;Accessory;Strength
+
+#orange 3* LIGHT
+5525;Orange WPON WIZ LIGHT;Orange;3;Weapon;Wisdom
+5526;Orange WPON AGL LIGHT;Orange;3;Weapon;Agility
+5527;Orange WPON STR LIGHT;Orange;3;Weapon;Strength
+5528;Orange ARMR WIZ LIGHT;Orange;3;Armor;Wisdom
+5529;Orange ARMR AGL LIGHT;Orange;3;Armor;Agility
+5530;Orange ARMR STR LIGHT;Orange;3;Armor;Strength
+5531;Orange SHOE WIZ LIGHT;Orange;3;Shoe;Wisdom
+5532;Orange SHOE AGL LIGHT;Orange;3;Shoe;Agility
+5533;Orange SHOE STR LIGHT;Orange;3;Shoe;Strength
+5534;Orange ACCS WIZ LIGHT;Orange;3;Accessory;Wisdom
+5535;Orange ACCS AGL LIGHT;Orange;3;Accessory;Agility
+5536;Orange ACCS STR LIGHT;Orange;3;Accessory;Strength
