@@ -20,7 +20,48 @@
   </nav>
 <br>
 
-<h3>Page under construction!</h3>
+<h4>Experience per item</h4>
+<label><input type="radio" name="gears" value="white1" onchange="updateGearExpTable()">White ⭐</label><br>
+<label><input type="radio" name="gears" value="white2" onchange="updateGearExpTable()">White ⭐⭐</label><br>
+<label><input type="radio" name="gears" value="green1" onchange="updateGearExpTable()">Green ⭐</label><br>
+<label><input type="radio" name="gears" value="green2" onchange="updateGearExpTable()">Green ⭐⭐</label><br>
+<label><input type="radio" name="gears" value="blue1" onchange="updateGearExpTable()">Blue ⭐</label><br>
+<label><input type="radio" name="gears" value="blue2" onchange="updateGearExpTable()">Blue ⭐⭐</label><br>
+<label><input type="radio" name="gears" value="purple1" onchange="updateGearExpTable()">Purple ⭐</label><br>
+<label><input type="radio" name="gears" value="purple2" onchange="updateGearExpTable()">Purple ⭐⭐</label><br>
+<label><input type="radio" name="gears" value="orange1" onchange="updateGearExpTable()">Orange ⭐</label><br>
+<label><input type="radio" name="gears" value="orange2" onchange="updateGearExpTable()">Orange ⭐⭐</label><br>
+<label><input type="radio" name="gears" value="orange3" onchange="updateGearExpTable()">Orange ⭐⭐⭐</label><br>
+<label><input type="radio" name="gears" value="red" onchange="updateGearExpTable()">Red</label><br>
+
+<table class="table table-sm table-responsive table-bordered">
+  <thead>
+    <tr>
+      <th>Color</th>
+      <th>Stars</th>
+      <th>Level</th>
+      <th>Experience</th>
+    </tr>
+  </thead>
+  <tbody id="gear-exp-table">
+  </tbody>
+</table>
+
+<table class="table table-sm table-responsive table-bordered" id="gear-exp-base-table">
+  <thead>
+    <tr>
+      <th>Color</th>
+      <th>Stars</th>
+      <th>Max Level</th>
+      <th>Base Experience</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+
+<script src="data/items_xp.js"></script>
+<script src="js/gear_upgrade.js"></script>
 
 <br><br><br>
 <hr>
