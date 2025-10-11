@@ -9,8 +9,8 @@ type_map_inv = {1: "Weapon", 2: "Armor", 3: "Shoe", 4: "Accessory"}
 class_map_inv = {1: "Wisdom", 2: "Agility", 3: "Strength"}
 faction_map_inv = {0: "No faction", 1: "Undead", 2: "Legion", 3: "Forest", 4: "Shadow", 5: "Light"}
 
-input_file = "item_orange.csv"
-output_file = "gear_orange-v2.csv"
+input_file = "item.csv"
+output_file = "item-v2.csv"
 
 with open(input_file, encoding="utf-8") as infile, open(output_file, "w", newline="", encoding="utf-8") as outfile:
     reader = csv.reader(infile, delimiter=";")
@@ -33,14 +33,16 @@ with open(input_file, encoding="utf-8") as infile, open(output_file, "w", newlin
         cid = color_map.get(color, 0)
         sid = int(stars)
         tid = type_map.get(typ, 0)
-        fid = int(oid[1])
-        faction_map_inv[fid]
+        fid = 0
         clid = class_map.get(cls, 0)
 
         gear_id = f"{cid}{sid}{tid}{fid}{clid}"
 
-        if "Orange" in name:
+        if "White" in name:
             name = "🏗 " + f"{color_map_inv[cid]} {sid}* {type_map_inv[tid]} {class_map_inv[clid]} {faction_map_inv[fid]}".upper()
+
+        if attr == "x":
+            attr = ""
 
         writer.writerow([gear_id, name, power, attr])
 
