@@ -1,2162 +1,1298 @@
 const gear_orange = [
   {
-    "Id": 5001,
+    "Id": 51101,
     "Name": "Magic Staff of Wisdom",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Wisdom",
     "Power": 351,
-    "Attr": "360 ATK, 2.1% ARMR PIERCE"
+    "Attributes": "360 ATK, 2.1% ARMR PIERCE"
   },
   {
-    "Id": 5002,
+    "Id": 51102,
     "Name": "Whistling Crossbow",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Agility",
     "Power": 462,
-    "Attr": "1100 HP, 350 ATK, 2.1% CRIT"
+    "Attributes": "1100 HP, 350 ATK, 2.1% CRIT"
   },
   {
-    "Id": 5003,
+    "Id": 51103,
     "Name": "Guardian's Sword",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Strength",
     "Power": 333,
-    "Attr": "280 ATK, 50 DEF, 2.1% CRIT"
+    "Attributes": "280 ATK, 50 DEF, 2.1% CRIT"
   },
   {
-    "Id": 5004,
+    "Id": 51201,
     "Name": "Cape of Wisdom",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Wisdom",
     "Power": 644,
-    "Attr": "4000 HP, 170 DEF"
+    "Attributes": "4000 HP, 170 DEF"
   },
   {
-    "Id": 5005,
+    "Id": 51202,
     "Name": "Whistling Top",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Agility",
     "Power": 680,
-    "Attr": "4000 HP, 200 DEF"
+    "Attributes": "4000 HP, 200 DEF"
   },
   {
-    "Id": 5006,
+    "Id": 51203,
     "Name": "Guardian's Armor",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Strength",
     "Power": 722,
-    "Attr": "4600 HP, 180 DEF"
+    "Attributes": "4600 HP, 180 DEF"
   },
   {
-    "Id": 5007,
+    "Id": 51301,
     "Name": "Footwraps of Wisdom",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Wisdom",
     "Power": 508,
-    "Attr": "2000 HP, 240 ATK, 45 DEF"
+    "Attributes": "2000 HP, 240 ATK, 45 DEF"
   },
   {
-    "Id": 5008,
+    "Id": 51302,
     "Name": "Whitsling Boots",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Agility",
     "Power": 435,
-    "Attr": "1600 HP, 180 ATK, 70 DEF"
+    "Attributes": "1600 HP, 180 ATK, 70 DEF"
   },
   {
-    "Id": 5009,
+    "Id": 51303,
     "Name": "Guardian's Boots",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Strength",
     "Power": 505,
-    "Attr": "2000 HP, 170 ATK, 100 DEF"
+    "Attributes": "2000 HP, 170 ATK, 100 DEF"
   },
   {
-    "Id": 5010,
+    "Id": 51401,
     "Name": "Necklace of Wisdom",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Wisdom",
     "Power": 635,
-    "Attr": "4000 HP, 200 ATK"
+    "Attributes": "4000 HP, 200 ATK"
   },
   {
-    "Id": 5011,
+    "Id": 51402,
     "Name": "Whistling Ring",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Agility",
     "Power": 615,
-    "Attr": "4000 HP, 180 ATK"
+    "Attributes": "4000 HP, 180 ATK"
   },
   {
-    "Id": 5012,
+    "Id": 51403,
     "Name": "Ring of the Guardian",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Strength",
     "Power": 833,
-    "Attr": "6600 HP, 110 ATK"
+    "Attributes": "6600 HP, 110 ATK"
   },
   {
-    "Id": 5101,
-    "Name": "Orange WPON WIZ UNDEAD",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 51111,
+    "Name": "🏗 ORANGE 1* WEAPON WISDOM UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5102,
-    "Name": "Orange WPON AGL UNDEAD",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 51112,
+    "Name": "🏗 ORANGE 1* WEAPON AGILITY UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5103,
-    "Name": "Orange WPON STR UNDEAD",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 51113,
+    "Name": "🏗 ORANGE 1* WEAPON STRENGTH UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5104,
+    "Id": 51211,
     "Name": "Cape of Wraith",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5105,
-    "Name": "Orange ARMR AGL UNDEAD",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 51212,
+    "Name": "🏗 ORANGE 1* ARMOR AGILITY UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5106,
+    "Id": 51213,
     "Name": "Dusk Armor",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Strength",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5107,
-    "Name": "Orange SHOE WIZ UNDEAD",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 51311,
+    "Name": "🏗 ORANGE 1* SHOE WISDOM UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5108,
+    "Id": 51312,
     "Name": "Boots of Silent Night",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5109,
-    "Name": "Orange SHOE STR UNDEAD",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 51313,
+    "Name": "🏗 ORANGE 1* SHOE STRENGTH UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5110,
+    "Id": 51411,
     "Name": "Heart of the Dead",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5111,
-    "Name": "Orange ACCS AGL UNDEAD",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 51412,
+    "Name": "🏗 ORANGE 1* ACCESSORY AGILITY UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5112,
+    "Id": 51413,
     "Name": "Dusk Ring",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Strength",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5201,
+    "Id": 51121,
     "Name": "Magic Staff of Academy",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5202,
+    "Id": 51122,
     "Name": "Crossbow of Praetorian Guard",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5203,
+    "Id": 51123,
     "Name": "Sword of Justice",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Strength",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5204,
+    "Id": 51221,
     "Name": "Cape of Academy",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5205,
+    "Id": 51222,
     "Name": "Praetorian Guard Top",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5206,
-    "Name": "Orange ARMR STR LEGION",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 51223,
+    "Name": "🏗 ORANGE 1* ARMOR STRENGTH LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5207,
+    "Id": 51321,
     "Name": "Footwraps of Academy",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5208,
+    "Id": 51322,
     "Name": "Boots of Praetorian Guard",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5209,
-    "Name": "Orange SHOE STR LEGION",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 51323,
+    "Name": "🏗 ORANGE 1* SHOE STRENGTH LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5210,
+    "Id": 51421,
     "Name": "Necklace of Academy",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5211,
-    "Name": "Orange ACCS AGL LEGION",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 51422,
+    "Name": "🏗 ORANGE 1* ACCESSORY AGILITY LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5212,
+    "Id": 51423,
     "Name": "Ring of Justice",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Strength",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5301,
+    "Id": 51131,
     "Name": "Element Staff",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5302,
+    "Id": 51132,
     "Name": "Traveler's Crossbow",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5303,
+    "Id": 51133,
     "Name": "Vitality Sword",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Strength",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5304,
-    "Name": "Orange ARMR WIZ FOREST",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 51231,
+    "Name": "🏗 ORANGE 1* ARMOR WISDOM FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5305,
-    "Name": "Orange ARMR AGL FOREST",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 51232,
+    "Name": "🏗 ORANGE 1* ARMOR AGILITY FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5306,
+    "Id": 51233,
     "Name": "Vitality Armor",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Strength",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5307,
+    "Id": 51331,
     "Name": "Elemental Footguards",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5308,
+    "Id": 51332,
     "Name": "Traveler's Boots",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5309,
-    "Name": "Orange SHOE STR FOREST",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 51333,
+    "Name": "🏗 ORANGE 1* SHOE STRENGTH FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5310,
+    "Id": 51431,
     "Name": "Element Necklace",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5311,
+    "Id": 51432,
     "Name": "Traveler's Ring",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5312,
-    "Name": "Orange ACCS STR FOREST",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 51433,
+    "Name": "🏗 ORANGE 1* ACCESSORY STRENGTH FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5401,
-    "Name": "Orange WPON WIZ SHADOW",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 51141,
+    "Name": "🏗 ORANGE 1* WEAPON WISDOM SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5402,
-    "Name": "Orange WPON AGL SHADOW",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 51142,
+    "Name": "🏗 ORANGE 1* WEAPON AGILITY SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5403,
+    "Id": 51143,
     "Name": "Longsword of Zeal",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Strength",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5404,
+    "Id": 51241,
     "Name": "Cape of Constrain",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5405,
+    "Id": 51242,
     "Name": "Tearer Top",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5406,
-    "Name": "Orange ARMR STR SHADOW",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 51243,
+    "Name": "🏗 ORANGE 1* ARMOR STRENGTH SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5407,
+    "Id": 51341,
     "Name": "Footwraps of Constrain",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5408,
-    "Name": "Orange SHOE AGL SHADOW",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 51342,
+    "Name": "🏗 ORANGE 1* SHOE AGILITY SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5409,
+    "Id": 51343,
     "Name": "Boots of Zeal",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Strength",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5410,
-    "Name": "Orange ACCS WIZ SHADOW",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 51441,
+    "Name": "🏗 ORANGE 1* ACCESSORY WISDOM SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5411,
+    "Id": 51442,
     "Name": "Tearer Ring",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5412,
-    "Name": "Orange ACCS STR SHADOW",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 51443,
+    "Name": "🏗 ORANGE 1* ACCESSORY STRENGTH SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5501,
-    "Name": "Orange WPON WIZ LIGHT",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 51151,
+    "Name": "🏗 ORANGE 1* WEAPON WISDOM LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5502,
-    "Name": "Orange WPON AGL LIGHT",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 51152,
+    "Name": "🏗 ORANGE 1* WEAPON AGILITY LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5503,
-    "Name": "Orange WPON STR LIGHT",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 51153,
+    "Name": "🏗 ORANGE 1* WEAPON STRENGTH LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5504,
+    "Id": 51251,
     "Name": "Mysterious Cape",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5505,
+    "Id": 51252,
     "Name": "Creed Top",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5506,
-    "Name": "Orange ARMR STR LIGHT",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 51253,
+    "Name": "🏗 ORANGE 1* ARMOR STRENGTH LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5507,
+    "Id": 51351,
     "Name": "Mysterious Footwraps",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5508,
+    "Id": 51352,
     "Name": "Boots of Creed",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5509,
+    "Id": 51353,
     "Name": "Ankle Boots of Dawn",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Shoe",
-    "Class": "Strength",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5510,
+    "Id": 51451,
     "Name": "Mysterious Necklace",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5511,
+    "Id": 51452,
     "Name": "Ring of Creed",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Agility",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5512,
-    "Name": "Orange ACCS STR LIGHT",
-    "Color": "Orange",
-    "Stars": 1,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 51453,
+    "Name": "🏗 ORANGE 1* ACCESSORY STRENGTH LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5013,
+    "Id": 52101,
     "Name": "Magic Staff of Wisdom",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Wisdom",
     "Power": 585,
-    "Attr": "600 ATK, 2.8% ARMR PIERCE"
+    "Attributes": "600 ATK, 2.8% ARMR PIERCE"
   },
   {
-    "Id": 5014,
-    "Name": "Orange WPON AGL NOFAC",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 52102,
+    "Name": "🏗 ORANGE 2* WEAPON AGILITY NO FACTION",
     "Power": 462,
-    "Attr": "1100 HP, 350 ATK, 2.1% CRIT"
+    "Attributes": "1100 HP, 350 ATK, 2.1% CRIT"
   },
   {
-    "Id": 5015,
+    "Id": 52103,
     "Name": "Guardian's Sword",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Strength",
     "Power": 559,
-    "Attr": "470 ATK, 84 DEF, 2.8% CRIT IMN"
+    "Attributes": "470 ATK, 84 DEF, 2.8% CRIT IMN"
   },
   {
-    "Id": 5016,
-    "Name": "Orange ARMR WIZ NOFAC",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 52201,
+    "Name": "🏗 ORANGE 2* ARMOR WISDOM NO FACTION",
     "Power": 1074,
-    "Attr": "6600 HP, 290 DEF"
+    "Attributes": "6600 HP, 290 DEF"
   },
   {
-    "Id": 5017,
-    "Name": "Orange ARMR AGL NOFAC",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 52202,
+    "Name": "🏗 ORANGE 2* ARMOR AGILITY NO FACTION",
     "Power": 1145,
-    "Attr": "6700 HP, 340 DEF"
+    "Attributes": "6700 HP, 340 DEF"
   },
   {
-    "Id": 5018,
+    "Id": 52203,
     "Name": "Guardian's Armor",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Strength",
     "Power": 1218,
-    "Attr": "7800 HP, 300 DEF"
+    "Attributes": "7800 HP, 300 DEF"
   },
   {
-    "Id": 5019,
-    "Name": "Orange SHOE WIZ NOFAC",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 52301,
+    "Name": "🏗 ORANGE 2* SHOE WISDOM NO FACTION",
     "Power": 854,
-    "Attr": "3400 HP, 400 ATK, 75 DEF"
+    "Attributes": "3400 HP, 400 ATK, 75 DEF"
   },
   {
-    "Id": 5020,
-    "Name": "Orange SHOE AGL NOFAC",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 52302,
+    "Name": "🏗 ORANGE 2* SHOE AGILITY NO FACTION",
     "Power": 733,
-    "Attr": "2700 HP, 300 ATK, 120 DEF"
+    "Attributes": "2700 HP, 300 ATK, 120 DEF"
   },
   {
-    "Id": 5021,
-    "Name": "Orange SHOE STR NOFAC",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 52303,
+    "Name": "🏗 ORANGE 2* SHOE STRENGTH NO FACTION",
     "Power": 851,
-    "Attr": "3400 HP, 280 ATK, 170 DEF"
+    "Attributes": "3400 HP, 280 ATK, 170 DEF"
   },
   {
-    "Id": 5022,
-    "Name": "Orange ACCS WIZ NOFAC",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 52401,
+    "Name": "🏗 ORANGE 2* ACCESSORY WISDOM NO FACTION",
     "Power": 1057,
-    "Attr": "6600 HP, 340 ATK"
+    "Attributes": "6600 HP, 340 ATK"
   },
   {
-    "Id": 5023,
+    "Id": 52402,
     "Name": "Whistling Ring",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Agility",
     "Power": 1029,
-    "Attr": "6700 HP, 300 ATK"
+    "Attributes": "6700 HP, 300 ATK"
   },
   {
-    "Id": 5024,
-    "Name": "Orange ACCS STR NOFAC",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 52403,
+    "Name": "🏗 ORANGE 2* ACCESSORY STRENGTH NO FACTION",
     "Power": 1390,
-    "Attr": "11000 HP, 185 ATK"
+    "Attributes": "11000 HP, 185 ATK"
   },
   {
-    "Id": 5113,
-    "Name": "Orange WPON WIZ UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 52111,
+    "Name": "🏗 ORANGE 2* WEAPON WISDOM UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5114,
-    "Name": "Orange WPON AGL UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 52112,
+    "Name": "🏗 ORANGE 2* WEAPON AGILITY UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5115,
-    "Name": "Orange WPON STR UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 52113,
+    "Name": "🏗 ORANGE 2* WEAPON STRENGTH UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5116,
-    "Name": "Orange ARMR WIZ UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 52211,
+    "Name": "🏗 ORANGE 2* ARMOR WISDOM UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5117,
-    "Name": "Orange ARMR AGL UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 52212,
+    "Name": "🏗 ORANGE 2* ARMOR AGILITY UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5118,
-    "Name": "Orange ARMR STR UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 52213,
+    "Name": "🏗 ORANGE 2* ARMOR STRENGTH UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5119,
-    "Name": "Orange SHOE WIZ UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 52311,
+    "Name": "🏗 ORANGE 2* SHOE WISDOM UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5120,
-    "Name": "Orange SHOE AGL UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 52312,
+    "Name": "🏗 ORANGE 2* SHOE AGILITY UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5121,
-    "Name": "Orange SHOE STR UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 52313,
+    "Name": "🏗 ORANGE 2* SHOE STRENGTH UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5122,
-    "Name": "Orange ACCS WIZ UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 52411,
+    "Name": "🏗 ORANGE 2* ACCESSORY WISDOM UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5123,
-    "Name": "Orange ACCS AGL UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 52412,
+    "Name": "🏗 ORANGE 2* ACCESSORY AGILITY UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5124,
-    "Name": "Orange ACCS STR UNDEAD",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 52413,
+    "Name": "🏗 ORANGE 2* ACCESSORY STRENGTH UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5213,
-    "Name": "Orange WPON WIZ LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 52121,
+    "Name": "🏗 ORANGE 2* WEAPON WISDOM LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5214,
-    "Name": "Orange WPON AGL LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 52122,
+    "Name": "🏗 ORANGE 2* WEAPON AGILITY LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5215,
-    "Name": "Orange WPON STR LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 52123,
+    "Name": "🏗 ORANGE 2* WEAPON STRENGTH LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5216,
-    "Name": "Orange ARMR WIZ LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 52221,
+    "Name": "🏗 ORANGE 2* ARMOR WISDOM LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5217,
-    "Name": "Orange ARMR AGL LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 52222,
+    "Name": "🏗 ORANGE 2* ARMOR AGILITY LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5218,
-    "Name": "Orange ARMR STR LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 52223,
+    "Name": "🏗 ORANGE 2* ARMOR STRENGTH LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5219,
-    "Name": "Orange SHOE WIZ LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 52321,
+    "Name": "🏗 ORANGE 2* SHOE WISDOM LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5220,
-    "Name": "Orange SHOE AGL LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 52322,
+    "Name": "🏗 ORANGE 2* SHOE AGILITY LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5221,
-    "Name": "Orange SHOE STR LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 52323,
+    "Name": "🏗 ORANGE 2* SHOE STRENGTH LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5222,
-    "Name": "Orange ACCS WIZ LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 52421,
+    "Name": "🏗 ORANGE 2* ACCESSORY WISDOM LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5223,
-    "Name": "Orange ACCS AGL LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 52422,
+    "Name": "🏗 ORANGE 2* ACCESSORY AGILITY LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5224,
-    "Name": "Orange ACCS STR LEGION",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 52423,
+    "Name": "🏗 ORANGE 2* ACCESSORY STRENGTH LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5313,
-    "Name": "Orange WPON WIZ FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 52131,
+    "Name": "🏗 ORANGE 2* WEAPON WISDOM FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5314,
-    "Name": "Orange WPON AGL FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 52132,
+    "Name": "🏗 ORANGE 2* WEAPON AGILITY FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5315,
-    "Name": "Orange WPON STR FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 52133,
+    "Name": "🏗 ORANGE 2* WEAPON STRENGTH FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5316,
-    "Name": "Orange ARMR WIZ FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 52231,
+    "Name": "🏗 ORANGE 2* ARMOR WISDOM FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5317,
-    "Name": "Orange ARMR AGL FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 52232,
+    "Name": "🏗 ORANGE 2* ARMOR AGILITY FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5318,
-    "Name": "Orange ARMR STR FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 52233,
+    "Name": "🏗 ORANGE 2* ARMOR STRENGTH FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5319,
-    "Name": "Orange SHOE WIZ FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 52331,
+    "Name": "🏗 ORANGE 2* SHOE WISDOM FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5320,
-    "Name": "Orange SHOE AGL FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 52332,
+    "Name": "🏗 ORANGE 2* SHOE AGILITY FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5321,
-    "Name": "Orange SHOE STR FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 52333,
+    "Name": "🏗 ORANGE 2* SHOE STRENGTH FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5322,
-    "Name": "Orange ACCS WIZ FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 52431,
+    "Name": "🏗 ORANGE 2* ACCESSORY WISDOM FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5323,
-    "Name": "Orange ACCS AGL FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 52432,
+    "Name": "🏗 ORANGE 2* ACCESSORY AGILITY FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5324,
-    "Name": "Orange ACCS STR FOREST",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 52433,
+    "Name": "🏗 ORANGE 2* ACCESSORY STRENGTH FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5413,
-    "Name": "Orange WPON WIZ SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 52141,
+    "Name": "🏗 ORANGE 2* WEAPON WISDOM SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5414,
-    "Name": "Orange WPON AGL SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 52142,
+    "Name": "🏗 ORANGE 2* WEAPON AGILITY SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5415,
-    "Name": "Orange WPON STR SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 52143,
+    "Name": "🏗 ORANGE 2* WEAPON STRENGTH SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5416,
-    "Name": "Orange ARMR WIZ SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 52241,
+    "Name": "🏗 ORANGE 2* ARMOR WISDOM SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5417,
-    "Name": "Orange ARMR AGL SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 52242,
+    "Name": "🏗 ORANGE 2* ARMOR AGILITY SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5418,
-    "Name": "Orange ARMR STR SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 52243,
+    "Name": "🏗 ORANGE 2* ARMOR STRENGTH SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5419,
-    "Name": "Orange SHOE WIZ SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 52341,
+    "Name": "🏗 ORANGE 2* SHOE WISDOM SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5420,
-    "Name": "Orange SHOE AGL SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 52342,
+    "Name": "🏗 ORANGE 2* SHOE AGILITY SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5421,
-    "Name": "Orange SHOE STR SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 52343,
+    "Name": "🏗 ORANGE 2* SHOE STRENGTH SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5422,
-    "Name": "Orange ACCS WIZ SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 52441,
+    "Name": "🏗 ORANGE 2* ACCESSORY WISDOM SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5423,
-    "Name": "Orange ACCS AGL SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 52442,
+    "Name": "🏗 ORANGE 2* ACCESSORY AGILITY SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5424,
-    "Name": "Orange ACCS STR SHADOW",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 52443,
+    "Name": "🏗 ORANGE 2* ACCESSORY STRENGTH SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5513,
-    "Name": "Orange WPON WIZ LIGHT",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 52151,
+    "Name": "🏗 ORANGE 2* WEAPON WISDOM LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5514,
-    "Name": "Orange WPON AGL LIGHT",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 52152,
+    "Name": "🏗 ORANGE 2* WEAPON AGILITY LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5515,
-    "Name": "Orange WPON STR LIGHT",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 52153,
+    "Name": "🏗 ORANGE 2* WEAPON STRENGTH LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5516,
+    "Id": 52251,
     "Name": "Mysterious Cape",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Wisdom",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5517,
-    "Name": "Orange ARMR AGL LIGHT",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 52252,
+    "Name": "🏗 ORANGE 2* ARMOR AGILITY LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5518,
-    "Name": "Orange ARMR STR LIGHT",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 52253,
+    "Name": "🏗 ORANGE 2* ARMOR STRENGTH LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5519,
-    "Name": "Orange SHOE WIZ LIGHT",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 52351,
+    "Name": "🏗 ORANGE 2* SHOE WISDOM LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5520,
-    "Name": "Orange SHOE AGL LIGHT",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 52352,
+    "Name": "🏗 ORANGE 2* SHOE AGILITY LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5521,
-    "Name": "Orange SHOE STR LIGHT",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 52353,
+    "Name": "🏗 ORANGE 2* SHOE STRENGTH LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5522,
-    "Name": "Orange ACCS WIZ LIGHT",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 52451,
+    "Name": "🏗 ORANGE 2* ACCESSORY WISDOM LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5523,
-    "Name": "Orange ACCS AGL LIGHT",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 52452,
+    "Name": "🏗 ORANGE 2* ACCESSORY AGILITY LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5524,
-    "Name": "Orange ACCS STR LIGHT",
-    "Color": "Orange",
-    "Stars": 2,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 52453,
+    "Name": "🏗 ORANGE 2* ACCESSORY STRENGTH LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5025,
-    "Name": "Orange WPON WIZ NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 53101,
+    "Name": "🏗 ORANGE 3* WEAPON WISDOM NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5026,
-    "Name": "Orange WPON AGL NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 53102,
+    "Name": "🏗 ORANGE 3* WEAPON AGILITY NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5027,
-    "Name": "Orange WPON STR NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 53103,
+    "Name": "🏗 ORANGE 3* WEAPON STRENGTH NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5028,
-    "Name": "Orange ARMR WIZ NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 53201,
+    "Name": "🏗 ORANGE 3* ARMOR WISDOM NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5029,
-    "Name": "Orange ARMR AGL NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 53202,
+    "Name": "🏗 ORANGE 3* ARMOR AGILITY NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5030,
-    "Name": "Orange ARMR STR NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 53203,
+    "Name": "🏗 ORANGE 3* ARMOR STRENGTH NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5031,
-    "Name": "Orange SHOE WIZ NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 53301,
+    "Name": "🏗 ORANGE 3* SHOE WISDOM NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5032,
-    "Name": "Orange SHOE AGL NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 53302,
+    "Name": "🏗 ORANGE 3* SHOE AGILITY NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5033,
-    "Name": "Orange SHOE STR NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 53303,
+    "Name": "🏗 ORANGE 3* SHOE STRENGTH NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5034,
-    "Name": "Orange ACCS WIZ NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 53401,
+    "Name": "🏗 ORANGE 3* ACCESSORY WISDOM NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5035,
-    "Name": "Orange ACCS AGL NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 53402,
+    "Name": "🏗 ORANGE 3* ACCESSORY AGILITY NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5036,
-    "Name": "Orange ACCS STR NOFAC",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 53403,
+    "Name": "🏗 ORANGE 3* ACCESSORY STRENGTH NO FACTION",
     "Power": "",
-    "Attr": "x"
+    "Attributes": "x"
   },
   {
-    "Id": 5125,
-    "Name": "Orange WPON WIZ UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 53111,
+    "Name": "🏗 ORANGE 3* WEAPON WISDOM UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5126,
-    "Name": "Orange WPON AGL UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 53112,
+    "Name": "🏗 ORANGE 3* WEAPON AGILITY UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5127,
-    "Name": "Orange WPON STR UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 53113,
+    "Name": "🏗 ORANGE 3* WEAPON STRENGTH UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5128,
-    "Name": "Orange ARMR WIZ UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 53211,
+    "Name": "🏗 ORANGE 3* ARMOR WISDOM UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5129,
-    "Name": "Orange ARMR AGL UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 53212,
+    "Name": "🏗 ORANGE 3* ARMOR AGILITY UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5130,
-    "Name": "Orange ARMR STR UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 53213,
+    "Name": "🏗 ORANGE 3* ARMOR STRENGTH UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5131,
-    "Name": "Orange SHOE WIZ UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 53311,
+    "Name": "🏗 ORANGE 3* SHOE WISDOM UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5132,
-    "Name": "Orange SHOE AGL UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 53312,
+    "Name": "🏗 ORANGE 3* SHOE AGILITY UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5133,
-    "Name": "Orange SHOE STR UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 53313,
+    "Name": "🏗 ORANGE 3* SHOE STRENGTH UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5134,
-    "Name": "Orange ACCS WIZ UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 53411,
+    "Name": "🏗 ORANGE 3* ACCESSORY WISDOM UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5135,
-    "Name": "Orange ACCS AGL UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 53412,
+    "Name": "🏗 ORANGE 3* ACCESSORY AGILITY UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5136,
-    "Name": "Orange ACCS STR UNDEAD",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 53413,
+    "Name": "🏗 ORANGE 3* ACCESSORY STRENGTH UNDEAD",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5225,
-    "Name": "Orange WPON WIZ LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 53121,
+    "Name": "🏗 ORANGE 3* WEAPON WISDOM LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5226,
-    "Name": "Orange WPON AGL LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 53122,
+    "Name": "🏗 ORANGE 3* WEAPON AGILITY LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5227,
-    "Name": "Orange WPON STR LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 53123,
+    "Name": "🏗 ORANGE 3* WEAPON STRENGTH LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5228,
-    "Name": "Orange ARMR WIZ LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 53221,
+    "Name": "🏗 ORANGE 3* ARMOR WISDOM LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5229,
-    "Name": "Orange ARMR AGL LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 53222,
+    "Name": "🏗 ORANGE 3* ARMOR AGILITY LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5230,
-    "Name": "Orange ARMR STR LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 53223,
+    "Name": "🏗 ORANGE 3* ARMOR STRENGTH LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5231,
-    "Name": "Orange SHOE WIZ LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 53321,
+    "Name": "🏗 ORANGE 3* SHOE WISDOM LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5232,
-    "Name": "Orange SHOE AGL LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 53322,
+    "Name": "🏗 ORANGE 3* SHOE AGILITY LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5233,
-    "Name": "Orange SHOE STR LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 53323,
+    "Name": "🏗 ORANGE 3* SHOE STRENGTH LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5234,
-    "Name": "Orange ACCS WIZ LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 53421,
+    "Name": "🏗 ORANGE 3* ACCESSORY WISDOM LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5235,
-    "Name": "Orange ACCS AGL LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 53422,
+    "Name": "🏗 ORANGE 3* ACCESSORY AGILITY LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5236,
-    "Name": "Orange ACCS STR LEGION",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 53423,
+    "Name": "🏗 ORANGE 3* ACCESSORY STRENGTH LEGION",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5325,
-    "Name": "Orange WPON WIZ FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 53131,
+    "Name": "🏗 ORANGE 3* WEAPON WISDOM FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5326,
-    "Name": "Orange WPON AGL FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 53132,
+    "Name": "🏗 ORANGE 3* WEAPON AGILITY FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5327,
-    "Name": "Orange WPON STR FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 53133,
+    "Name": "🏗 ORANGE 3* WEAPON STRENGTH FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5328,
-    "Name": "Orange ARMR WIZ FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 53231,
+    "Name": "🏗 ORANGE 3* ARMOR WISDOM FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5329,
-    "Name": "Orange ARMR AGL FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 53232,
+    "Name": "🏗 ORANGE 3* ARMOR AGILITY FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5330,
-    "Name": "Orange ARMR STR FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 53233,
+    "Name": "🏗 ORANGE 3* ARMOR STRENGTH FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5331,
-    "Name": "Orange SHOE WIZ FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 53331,
+    "Name": "🏗 ORANGE 3* SHOE WISDOM FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5332,
-    "Name": "Orange SHOE AGL FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 53332,
+    "Name": "🏗 ORANGE 3* SHOE AGILITY FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5333,
-    "Name": "Orange SHOE STR FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 53333,
+    "Name": "🏗 ORANGE 3* SHOE STRENGTH FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5334,
-    "Name": "Orange ACCS WIZ FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 53431,
+    "Name": "🏗 ORANGE 3* ACCESSORY WISDOM FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5335,
-    "Name": "Orange ACCS AGL FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 53432,
+    "Name": "🏗 ORANGE 3* ACCESSORY AGILITY FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5336,
-    "Name": "Orange ACCS STR FOREST",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 53433,
+    "Name": "🏗 ORANGE 3* ACCESSORY STRENGTH FOREST",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5425,
-    "Name": "Orange WPON WIZ SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 53141,
+    "Name": "🏗 ORANGE 3* WEAPON WISDOM SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5426,
-    "Name": "Orange WPON AGL SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 53142,
+    "Name": "🏗 ORANGE 3* WEAPON AGILITY SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5427,
-    "Name": "Orange WPON STR SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 53143,
+    "Name": "🏗 ORANGE 3* WEAPON STRENGTH SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5428,
-    "Name": "Orange ARMR WIZ SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 53241,
+    "Name": "🏗 ORANGE 3* ARMOR WISDOM SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5429,
-    "Name": "Orange ARMR AGL SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 53242,
+    "Name": "🏗 ORANGE 3* ARMOR AGILITY SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5430,
-    "Name": "Orange ARMR STR SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 53243,
+    "Name": "🏗 ORANGE 3* ARMOR STRENGTH SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5431,
-    "Name": "Orange SHOE WIZ SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 53341,
+    "Name": "🏗 ORANGE 3* SHOE WISDOM SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5432,
-    "Name": "Orange SHOE AGL SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 53342,
+    "Name": "🏗 ORANGE 3* SHOE AGILITY SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5433,
-    "Name": "Orange SHOE STR SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 53343,
+    "Name": "🏗 ORANGE 3* SHOE STRENGTH SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5434,
-    "Name": "Orange ACCS WIZ SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 53441,
+    "Name": "🏗 ORANGE 3* ACCESSORY WISDOM SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5435,
-    "Name": "Orange ACCS AGL SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 53442,
+    "Name": "🏗 ORANGE 3* ACCESSORY AGILITY SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5436,
-    "Name": "Orange ACCS STR SHADOW",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 53443,
+    "Name": "🏗 ORANGE 3* ACCESSORY STRENGTH SHADOW",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5525,
-    "Name": "Orange WPON WIZ LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Wisdom",
+    "Id": 53151,
+    "Name": "🏗 ORANGE 3* WEAPON WISDOM LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5526,
-    "Name": "Orange WPON AGL LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Agility",
+    "Id": 53152,
+    "Name": "🏗 ORANGE 3* WEAPON AGILITY LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5527,
-    "Name": "Orange WPON STR LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Weapon",
-    "Class": "Strength",
+    "Id": 53153,
+    "Name": "🏗 ORANGE 3* WEAPON STRENGTH LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5528,
-    "Name": "Orange ARMR WIZ LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Wisdom",
+    "Id": 53251,
+    "Name": "🏗 ORANGE 3* ARMOR WISDOM LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5529,
-    "Name": "Orange ARMR AGL LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Agility",
+    "Id": 53252,
+    "Name": "🏗 ORANGE 3* ARMOR AGILITY LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5530,
-    "Name": "Orange ARMR STR LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Armor",
-    "Class": "Strength",
+    "Id": 53253,
+    "Name": "🏗 ORANGE 3* ARMOR STRENGTH LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5531,
-    "Name": "Orange SHOE WIZ LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Wisdom",
+    "Id": 53351,
+    "Name": "🏗 ORANGE 3* SHOE WISDOM LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5532,
-    "Name": "Orange SHOE AGL LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Agility",
+    "Id": 53352,
+    "Name": "🏗 ORANGE 3* SHOE AGILITY LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5533,
-    "Name": "Orange SHOE STR LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Shoe",
-    "Class": "Strength",
+    "Id": 53353,
+    "Name": "🏗 ORANGE 3* SHOE STRENGTH LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5534,
-    "Name": "Orange ACCS WIZ LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Wisdom",
+    "Id": 53451,
+    "Name": "🏗 ORANGE 3* ACCESSORY WISDOM LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5535,
-    "Name": "Orange ACCS AGL LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Agility",
+    "Id": 53452,
+    "Name": "🏗 ORANGE 3* ACCESSORY AGILITY LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   },
   {
-    "Id": 5536,
-    "Name": "Orange ACCS STR LIGHT",
-    "Color": "Orange",
-    "Stars": 3,
-    "Type": "Accessory",
-    "Class": "Strength",
+    "Id": 53453,
+    "Name": "🏗 ORANGE 3* ACCESSORY STRENGTH LIGHT",
     "Power": "",
-    "Attr": ""
+    "Attributes": ""
   }
-];
+]
