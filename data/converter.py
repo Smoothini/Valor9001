@@ -9,41 +9,86 @@ type_map_inv = {1: "Weapon", 2: "Armor", 3: "Shoe", 4: "Accessory"}
 class_map_inv = {1: "Wisdom", 2: "Agility", 3: "Strength"}
 faction_map_inv = {0: "No faction", 1: "Undead", 2: "Legion", 3: "Forest", 4: "Shadow", 5: "Light"}
 
-input_file = "item.csv"
-output_file = "item-v2.csv"
 
-with open(input_file, encoding="utf-8") as infile, open(output_file, "w", newline="", encoding="utf-8") as outfile:
-    reader = csv.reader(infile, delimiter=";")
-    writer = csv.writer(outfile, delimiter=";")
+def convoluted_to_combined_id():
+    input_file = "item.csv"
+    output_file = "item-v2.csv"
 
-    for row in reader:
-        # preserve empty or comment lines
-        if not row or row[0].startswith("#"):
-            #writer.writerow(row)
-            continue
+    with open(input_file, encoding="utf-8") as infile, open(output_file, "w", newline="", encoding="utf-8") as outfile:
+        reader = csv.reader(infile, delimiter=";")
+        writer = csv.writer(outfile, delimiter=";")
 
-        if len(row) == 6:
-            oid, name, color, stars, typ, cls = row 
-            power = ""
-            attr = ""
-        else:
-            oid, name, color, stars, typ, cls, power, attr = row
+        for row in reader:
+            # preserve empty or comment lines
+            if not row or row[0].startswith("#"):
+                #writer.writerow(row)
+                continue
 
-        # build id
-        cid = color_map.get(color, 0)
-        sid = int(stars)
-        tid = type_map.get(typ, 0)
-        fid = 0
-        clid = class_map.get(cls, 0)
+            if len(row) == 6:
+                oid, name, color, stars, typ, cls = row 
+                power = ""
+                attr = ""
+            else:
+                oid, name, color, stars, typ, cls, power, attr = row
 
-        gear_id = f"{cid}{sid}{tid}{fid}{clid}"
+            # build id
+            cid = color_map.get(color, 0)
+            sid = int(stars)
+            tid = type_map.get(typ, 0)
+            fid = 0
+            clid = class_map.get(cls, 0)
 
-        if "White" in name:
-            name = "🏗 " + f"{color_map_inv[cid]} {sid}* {type_map_inv[tid]} {class_map_inv[clid]} {faction_map_inv[fid]}".upper()
+            gear_id = f"{cid}{sid}{tid}{fid}{clid}"
 
-        if attr == "x":
-            attr = ""
+            if "White" in name:
+                name = "🏗 " + f"{color_map_inv[cid]} {sid}* {type_map_inv[tid]} {class_map_inv[clid]} {faction_map_inv[fid]}".upper()
 
-        writer.writerow([gear_id, name, power, attr])
+            if attr == "x":
+                attr = ""
 
-print(f"✅ done, written to {output_file}")
+            writer.writerow([gear_id, name, power, attr])
+
+    print(f"✅ done, written to {output_file}")
+
+def red_generator():
+    input_file = "gear_orange.csv"
+    output_file = "gear_red.csv"
+
+    with open(input_file, encoding="utf-8") as infile, open(output_file, "w", newline="", encoding="utf-8") as outfile:
+        reader = csv.reader(infile, delimiter=";")
+        writer = csv.writer(outfile, delimiter=";")
+
+        for row in reader:
+            # preserve empty or comment lines
+            if not row or row[0].startswith("#"):
+                #writer.writerow(row)
+                continue
+
+            if len(row) != 4:
+                print(f"Skipping invalid row: {row}")
+                continue
+
+            gear_id, name, power, attr = row
+
+            if len(gear_id) != 5:
+                print(f"Skipping invalid gear_id: {gear_id}")
+                continue
+
+            cid = 6
+            sid = int(gear_id[1])
+            tid = int(gear_id[2])
+            fid = int(gear_id[3])
+            clid = int(gear_id[4])
+
+            new_gear_id = f"{cid}{0}{tid}{fid}{clid}"
+
+            print(new_gear_id)
+
+            name = f"🏗 RED {type_map_inv[tid]} {class_map_inv[clid]} {faction_map_inv[fid]}".upper()
+
+            writer.writerow([new_gear_id, name, "", ""])
+
+    print(f"✅ done, written to {output_file}")
+
+
+red_generator()

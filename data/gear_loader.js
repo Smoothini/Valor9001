@@ -42,7 +42,7 @@ function parseGearId(id) {
 
 window.addEventListener("DOMContentLoaded", () => {
     const tbody = document.querySelector("#gear-table tbody");
-    gears = gear_basic.concat(gear_orange);
+    gears = gear_basic.concat(gear_orange).concat(gear_red);
     gears.forEach(item => {
         const tr = document.createElement("tr");
 
