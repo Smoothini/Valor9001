@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td>End:</td>
-      <td colspan="2"><input type="number" id="levelEnd" value="160" min="2" max="260"></td>
+      <td colspan="2"><input type="number" id="levelEnd" value="260" min="2" max="260"></td>
     </tr>
     <tr>
       <td></td>
@@ -49,6 +49,18 @@
     <tr><td colspan="3"><span id="warning" style="color:red;"></span></td></tr>
   </table>
 
+  <table id="multiple-heroes" hidden>
+    <thead>
+      <tr>
+        <th style="padding: 0px 20px 0px 10px;">Heroes</th>
+        <th style="padding: 0px 20px 0px 0px;">Beads</th>
+        <th style="padding: 0px 20px 0px 0px;">Elixir</th>
+        <th style="padding: 0px 20px 0px 0px;">Gold</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
   <h4>Level Up Table</h4>
   <table class="table table-sm table-responsive table-bordered" id="level-table">
     <thead>
@@ -58,6 +70,8 @@
     </thead>
     <tbody></tbody>
   </table>
+
+  <small><i>NOTE: Data was manually taken while leveling up!</i></small>
 
   <script src="data/levelup_loader.js"></script>
   <script src="js/levelup.js"></script>

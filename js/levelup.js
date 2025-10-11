@@ -34,6 +34,43 @@ function calculateCost() {
     document.getElementById("total_elixir").textContent = elixir.toLocaleString();
     document.getElementById("total_gold").textContent = gold.toLocaleString();
 
+    const multibody = document.querySelector("#multiple-heroes tbody")
+    multibody.innerHTML = "";
+
+    for (let i = 1; i<= 10; i++){
+        const tr = document.createElement("tr");
+        
+        const heroesTd = document.createElement("td");
+        heroesTd.textContent = i;
+        heroesTd.style.textAlign = "center";
+        heroesTd.style.padding = "0px 20px 0px 10px";
+        tr.appendChild(heroesTd);
+
+        const beadsTd = document.createElement("td");
+        beadsTd.textContent = (beads * i).toLocaleString();
+        beadsTd.style.textAlign = "right";
+        beadsTd.style.padding = "0px 20px 0px 0px";
+        tr.appendChild(beadsTd);
+
+        const elixirTd = document.createElement("td");
+        elixirTd.textContent = (elixir * i).toLocaleString();
+        elixirTd.style.textAlign = "right";
+        elixirTd.style.padding = "0px 20px 0px 0px";
+        tr.appendChild(elixirTd);
+
+        const goldTd = document.createElement("td");
+        goldTd.textContent = (gold * i).toLocaleString();
+        goldTd.style.textAlign = "right";
+        goldTd.style.padding = "0px 20px 0px 0px";
+        tr.appendChild(goldTd);
+
+        multibody.appendChild(tr);
+    }
+
+    multi = document.getElementById("multiple-heroes");
+    multi.removeAttribute("hidden");
+
+
     if (missing) {
         document.getElementById("warning").textContent = "Some levels in range are missing data!";
     }
