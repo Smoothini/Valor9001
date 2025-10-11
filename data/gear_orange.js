@@ -1,4 +1,4 @@
-const items_orange = [
+const gear_orange = [
   {
     "Id": 5001,
     "Name": "Magic Staff of Wisdom",

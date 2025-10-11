@@ -1,4 +1,4 @@
-const items_basic = [
+const gear_basic = [
   {
     "Id": 101,
     "Name": "White Wpn Wis",
