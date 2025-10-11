@@ -1,0 +1,125 @@
+#id name color stars type class power attr
+#white 1*
+11101;White Wpn Wis;;x
+11102;Wooden Longbow;;x
+11103;White Wpn Str;;x
+11201;White Armor Wis;;x
+11202;White Armor Agl;;x
+11203;White Armor Str;;x
+11301;White Shoe Wis;;x
+11302;White Shoe Agl;;x
+11303;White Shoe Str;;x
+11401;White Accs Wis;;x
+11402;White Accs Agl;;x
+11403;White Accs Str;;x
+
+#white 2*
+12101;White Wpn Wis;;x
+12102;Wooden Longbow;12;26 HP, 10 ATK
+12103;White Wpn Str;;x
+12201;White Armor Wis;;x
+12202;White Armor Agl;;x
+12203;White Armor Str;;x
+12301;White Shoe Wis;;x
+12302;White Shoe Agl;;x
+12303;White Shoe Str;;x
+12401;White Accs Wis;;x
+12402;White Accs Agl;;x
+12403;White Accs Str;;x
+
+
+
+#green 1*
+21101;Normal Magic Staff;17;18 ATK
+21102;Fine Longbow;23;50 HP, 18 ATK
+21103;Bravery Dagger;;x
+21201;Cape;31;180 HP, 10 DEF
+21202;Cape;31;180 HP, 10 DEF
+21203;Linen Top;34;200 HP, 10 DEF
+21301;Flax Ankle Boots;;x
+21302;Flax Ankle Boots;;x
+21303;Flax Ankle Boots;;x
+21401;Jackdaw Necklace;29;175 HP, 10 ATK
+21402;🏗 GREEN ACCS AGL 1*;;x
+21403;Elemental Ring;38;300 HP, 6 ATK
+
+#green 2* COMPLETE
+22101;Normal Magic Staff;29;30 ATK
+22102;Fine Longbow;38;80 HP, 30 ATK
+22103;Bravery Dagger;26;22 ATK, 4 DEF
+22201;Cape;47;270 HP, 15 DEF
+22202;Cape;50;280 HP, 16 DEF
+22203;Linen Top;53;320 HP, 15 DEF
+22301;Flax Ankle Boots;39;140 HP, 20 ATK, 4 DEF
+22302;Flax Ankle Boots;32;110 HP, 14 ATK, 6 DEF
+22303;Flax Ankle Boots;37;140 HP, 13 ATK, 8 DEF
+22401;Jackdaw Necklace;44;270 HP, 15 ATK
+22402;Wooden Ring;44;270 HP, 15 ATK
+22403;Elemental Ring;59;460 HP, 9 ATK
+
+
+
+#blue 1* COMPLETE
+31101;Bravery Magic Staff;39;40  ATK
+31102;Bravery Longbow;50;100 HP, 40 ATK
+31103;Sharp Shortsword;36;30 ATK, 6 DEF
+31201;Light Leather Vest;66;390 HP, 20 DEF
+31202;Light Leather Vest;72;400 HP, 24 DEF
+31203;Bravery Top;74;460 HP, 20 DEF
+31301;Hard-Leather Boots;57;200 HP, 30 ATK, 5 DEF
+31302;Hard-Leather Boots;46;160 HP, 20 ATK, 8 DEF
+31303;Hard-Leather Boots;53;200 HP, 18 ATK, 12 DEF
+31401;Glowstone Necklace;64;390 HP, 22 ATK
+31402;Glowstone Ring;63;400 HP, 20 ATK
+31403;Ring of Bravery;84;650 HP, 13 ATK
+
+#blue 2* COMPLETE
+32101;Bravery Magic Staff;53;55 ATK
+32102;Bravery Longbow;69;140 HP, 55 ATK
+32103;Sharp Shortsword;48;40 ATK, 8 DEF
+32201;Light Leather Vest;89;530 HP, 26 DEF
+32202;Light Leather Vest;94;530 HP, 30 DEF
+32203;Bravery Top;100;610 HP, 28 DEF
+32301;Hard-Leather Boots;77;270 HP, 40 ATK, 7 DEF
+32302;Hard-Leather Boots;64;210 HP, 30 ATK, 10 DEF
+32303;Hard-Leather Boots;73;270 HP, 25 ATK, 16 DEF
+32401;Glowstone Necklace;87;525 HP, 30 ATK
+32402;Glowstone Ring;85;530 HP, 28 ATK
+32403;Ring of Bravery;113;880 HP, 17 ATK
+
+
+
+#purple 1* COMPLETE
+41101;Magic Staff of the Fearless;97;100 ATK, 0.6% ARMOR PIERCE
+41102;Crossbow of the Fearless;118;280 HP, 90 ATK, 0.6% CRIT
+41103;Spear of the Fearless;83;70 ATK, 13 DEF, 0.6% CRIT IMN
+41201;Adventurer Hide;162;1000 HP, 44 DEF
+41202;Adventurer Hide;173;1000 HP, 53 DEF
+41203;Adventurer Light Vest;;1200 HP, 46 DEF
+41301;Adventurer Footwraps;132;510 HP, 65 ATK, 11 DEF
+41302;Adventurer Footwraps;115;410 HP, 50 ATK, 18 DEF
+41303;Adventurer Footwraps;135;520 HP, 50 ATK, 25 DEF
+41401;Sapphire Pendant;158;1000 HP, 50 ATK
+41402;Sapphire Ring;158;1000 HP, 50 ATK
+41403;Adventurer Ring;216;1700 HP, 30 ATK
+
+#purple 2* COMPLETE
+42101;Magic Staff of the Fearless;146;150 ATK, 1.2% ARMOR PIERCE
+42102;Crossbow of the Fearless;183;430 HP, 140 ATK, 1.2% CRIT RATE
+42103;Spear of the Fearless;131;110 ATK, 20 DEF, 1.2% CRIT IMN
+42201;Adventurer Hide;257;1600 HP, 68 DEF
+42202;Adventurer Hide;272;1600 HP, 80 DEF
+42203;Adventurer Light Vest;295;1900 HP, 72 DEF
+42301;Adventurer Footwraps;205;800 HP, 100 ATK, 17 DEF
+42302;Adventurer Footwraps;171;640 HP, 70 ATK, 27 DEF
+42303;Adventurer Footwraps;203;790 HP, 70 ATK, 40 DEF
+42401;Sapphire Pendant;254;1600 HP, 80 ATK
+42402;Sapphire Ring;244;1600 HP, 70 ATK
+42403;Adventurer Ring;329;2600 HP, 45 ATK
+
+
+#orange 1* 
+#orange 2* 
+#orange 3* 
+
+#red
