@@ -1,11 +1,11 @@
 const gear_xp = {
     "white": {
         "max_level": 1,
-        "base_xp": [ 0, 0 ], // missing values
+        "base_xp": [ '?', '?' ], // missing values
     },
     "green": {
         "max_level": 1,
-        "base_xp": [ 0, 400 ], // missing values
+        "base_xp": [ '?', 400 ], // missing values
     },
     "blue": {
         "max_level": 30,
@@ -24,11 +24,11 @@ const gear_xp = {
         "base_xp": [ 1000, 1100, 1200 ],
         1 : [ 1000, 2000, 3000, 5000, 9000 ], // 10, 20, 30, 40, 50
         2 : [ 1800, 3600, 5400, 9000, 16200 ],
-        3 : [ 2800, 5600, 8400, 14000, 25200 ], // no idea
+        3 : [ 2800, 5600, 8400, 14000, 25200 ],
     },
     "red": {
-        "max_level": 80,
-        "base_xp": [ 0 ],
+        "max_level": "80?", // no idea abotut max level
+        "base_xp": [ "Not possible" ],
         1 : [ 8000, 16000, 24000, 40000, 72000 ], // 10, 20, 30, 40, 50, 60, 70, 80
         2 : [ 100, 200, 300 ]
     },
