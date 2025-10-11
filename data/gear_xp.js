@@ -1,4 +1,4 @@
-const items_xp = {
+const gear_xp = {
     "white": {
         "max_level": 1,
         "base_xp": [ 0, 0 ], // missing values

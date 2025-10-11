@@ -1,11 +1,13 @@
 <!doctype html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Valor Gear Upgrades</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css">
 </head>
+
 <body>
   <h1>Gear Upgrades</h1>
 
@@ -18,61 +20,67 @@
     <a class="nav-link" href="gear_upgrades.html">Gear upgrades</a>
     <a class="nav-link" href="artifacts.html">Artifacts</a>
   </nav>
-<br>
+  <br>
 
-<h4>Experience per item</h4>
-<label><input type="radio" name="gears" value="white1" onchange="updateGearExpTable()">White ⭐</label><br>
-<label><input type="radio" name="gears" value="white2" onchange="updateGearExpTable()">White ⭐⭐</label><br>
-<label><input type="radio" name="gears" value="green1" onchange="updateGearExpTable()">Green ⭐</label><br>
-<label><input type="radio" name="gears" value="green2" onchange="updateGearExpTable()">Green ⭐⭐</label><br>
-<label><input type="radio" name="gears" value="blue1" onchange="updateGearExpTable()">Blue ⭐</label><br>
-<label><input type="radio" name="gears" value="blue2" onchange="updateGearExpTable()">Blue ⭐⭐</label><br>
-<label><input type="radio" name="gears" value="purple1" onchange="updateGearExpTable()">Purple ⭐</label><br>
-<label><input type="radio" name="gears" value="purple2" onchange="updateGearExpTable()">Purple ⭐⭐</label><br>
-<label><input type="radio" name="gears" value="orange1" onchange="updateGearExpTable()">Orange ⭐</label><br>
-<label><input type="radio" name="gears" value="orange2" onchange="updateGearExpTable()">Orange ⭐⭐</label><br>
-<label><input type="radio" name="gears" value="orange3" onchange="updateGearExpTable()">Orange ⭐⭐⭐</label><br>
-<label><input type="radio" name="gears" value="red" onchange="updateGearExpTable()">Red</label><br>
+  <h4>Base experience per gear type</h4>
+  <i>>The amount of experience each gear provides when used to enhance another gear</i>
+  <br>
+  <table class="table table-sm table-responsive table-bordered" id="gear-exp-base-table">
+    <thead>
+      <tr>
+        <th>Color</th>
+        <th>Stars</th>
+        <th>Max Level</th>
+        <th>Base Exp.</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
 
-<table class="table table-sm table-responsive table-bordered">
-  <thead>
-    <tr>
-      <th>Color</th>
-      <th>Stars</th>
-      <th>Level</th>
-      <th>Experience</th>
-    </tr>
-  </thead>
-  <tbody id="gear-exp-table">
-  </tbody>
-</table>
+  <h4>Experience needed to level up</h4>
+  <select id="gear-select" onchange="updateGearExpTable()">
+    <option value="" disabled selected>Select gear quality</option>
+    <option value="white1" disabled>White ⭐ - Not possible</option>
+    <option value="white2" disabled>White ⭐⭐ - Not possible</option>
+    <option value="green1" disabled>Green ⭐ - Not possible</option>
+    <option value="green2" disabled>Green ⭐⭐ - Not possible</option>
+    <option value="blue1">Blue ⭐</option>
+    <option value="blue2">Blue ⭐⭐</option>
+    <option value="purple1">Purple ⭐</option>
+    <option value="purple2">Purple ⭐⭐</option>
+    <option value="orange1">Orange ⭐</option>
+    <option value="orange2">Orange ⭐⭐</option>
+    <option value="orange3">Orange ⭐⭐⭐</option>
+    <option value="red1">Red</option>
+  </select>
+  <table class="table table-sm table-responsive table-bordered">
+    <thead>
+      <tr>
+        <th>Level</th>
+        <th>Exp.</th>
+        <th>Total</th>
+      </tr>
+    </thead>
+    <tbody id="gear-exp-table">
+    </tbody>
+  </table>
 
-<table class="table table-sm table-responsive table-bordered" id="gear-exp-base-table">
-  <thead>
-    <tr>
-      <th>Color</th>
-      <th>Stars</th>
-      <th>Max Level</th>
-      <th>Base Experience</th>
-    </tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table>
+  <script src="data/gear_xp.js"></script>
+  <script src="js/gear_upgrade.js"></script>
 
-<script src="data/items_xp.js"></script>
-<script src="js/gear_upgrade.js"></script>
-
-<br><br><br>
-<hr>
-<footer>
-    <a href="https://github.com/Smoothini/Valor9001" target="_blank" class="mx-2 text-decoration-none" title="GitHub"><img src="res/ghl.png"  alt="GitHub Logo" style="width:25px;"></a>
+  <br><br><br>
+  <hr>
+  <footer>
+    <a href="https://github.com/Smoothini/Valor9001" target="_blank" class="mx-2 text-decoration-none"
+      title="GitHub"><img src="res/ghl.png" alt="GitHub Logo" style="width:25px;"></a>
     <a href="https://github.com/Smoothini/Valor9001" target="_blank" class="text-dark mx-2">Source Code</a>
     <a href="https://smoothini.github.io/" target="_blank" class="text-dark mx-2">Other Cool Projects</a>
     <br><br>
-    <div class="small mx-2">&copy; <a href="https://github.com/Smoothini" target="_blank" class="text-dark">Smoothini</a> 2025</div>
-</footer>
-<script data-goatcounter="https://solenoid.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+    <div class="small mx-2">&copy; <a href="https://github.com/Smoothini" target="_blank"
+        class="text-dark">Smoothini</a> 2025</div>
+  </footer>
+  <script data-goatcounter="https://solenoid.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
+
 </html>
