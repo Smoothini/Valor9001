@@ -45,7 +45,7 @@ const gear_orange = [
     "Id": "51122",
     "Name": "Crossbow of Praetorian Guard",
     "Power": "462",
-    "Attributes": "1100HP, 350ATK, 2.1% CR"
+    "Attributes": "1100 HP, 350 ATK, 2.1% CR"
   },
   {
     "Id": "51123",

@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'BlockHead';
+  src: url('fonts/YouBlockhead.woff2') format('woff2'),
+       url('fonts/YouBlockhead.woff') format('woff');
+  font-display: swap;
+}
+
+html, body {
+  font-family: 'BlockHead', sans-serif;
+}

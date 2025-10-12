@@ -7,7 +7,7 @@ const gear_basic = [
   },
   {
     "Id": 11102,
-    "Name": "Wooden Longbow",
+    "Name": "Wooden Longbow 🤔",
     "Power": "",
     "Attributes": ""
   },
@@ -157,13 +157,13 @@ const gear_basic = [
   },
   {
     "Id": 21103,
-    "Name": "Bravery Dagger",
+    "Name": "Bravery Dagger 🤔",
     "Power": "",
     "Attributes": ""
   },
   {
     "Id": 21201,
-    "Name": "Cape",
+    "Name": "Cape 🤔",
     "Power": 31,
     "Attributes": "180 HP, 10 DEF"
   },
@@ -187,13 +187,13 @@ const gear_basic = [
   },
   {
     "Id": 21302,
-    "Name": "Flax Ankle Boots",
+    "Name": "Flax Ankle Boots 🤔",
     "Power": "",
     "Attributes": ""
   },
   {
     "Id": 21303,
-    "Name": "Flax Ankle Boots",
+    "Name": "Flax Ankle Boots 🤔",
     "Power": "",
     "Attributes": ""
   },
@@ -205,7 +205,7 @@ const gear_basic = [
   },
   {
     "Id": 21402,
-    "Name": "Green Accs Agl 1*",
+    "Name": "Wooden Ring 🤔",
     "Power": "",
     "Attributes": ""
   },
@@ -291,7 +291,7 @@ const gear_basic = [
     "Id": 31101,
     "Name": "Bravery Magic Staff",
     "Power": 39,
-    "Attributes": "40  ATK"
+    "Attributes": "40 ATK"
   },
   {
     "Id": 31102,
@@ -435,19 +435,19 @@ const gear_basic = [
     "Id": 41101,
     "Name": "Magic Staff of the Fearless",
     "Power": 97,
-    "Attributes": "100 ATK, 0.6% ARMOR PIERCE"
+    "Attributes": "100 ATK, 0.6% AP"
   },
   {
     "Id": 41102,
     "Name": "Crossbow of the Fearless",
     "Power": 118,
-    "Attributes": "280 HP, 90 ATK, 0.6% CRIT"
+    "Attributes": "280 HP, 90 ATK, 0.6% CR"
   },
   {
     "Id": 41103,
     "Name": "Spear of the Fearless",
     "Power": 83,
-    "Attributes": "70 ATK, 13 DEF, 0.6% CRIT IMN"
+    "Attributes": "70 ATK, 13 DEF, 0.6% CI"
   },
   {
     "Id": 41201,
@@ -507,19 +507,19 @@ const gear_basic = [
     "Id": 42101,
     "Name": "Magic Staff of the Fearless",
     "Power": 146,
-    "Attributes": "150 ATK, 1.2% ARMOR PIERCE"
+    "Attributes": "150 ATK, 1.2% AP"
   },
   {
     "Id": 42102,
     "Name": "Crossbow of the Fearless",
     "Power": 183,
-    "Attributes": "430 HP, 140 ATK, 1.2% CRIT RATE"
+    "Attributes": "430 HP, 140 ATK, 1.2% CR"
   },
   {
     "Id": 42103,
     "Name": "Spear of the Fearless",
     "Power": 131,
-    "Attributes": "110 ATK, 20 DEF, 1.2% CRIT IMN"
+    "Attributes": "110 ATK, 20 DEF, 1.2% CI"
   },
   {
     "Id": 42201,
