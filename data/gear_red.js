@@ -67,7 +67,7 @@ const gear_red = [
     },
     {
         "Id": "60133",
-        "Name": "🏗 RED WEAPON STRENGTH FOREST",
+        "Name": "Thorn Chopper",
         "Power": "1788",
         "Attributes": "1500 ATK, 272 DEF, 4.5% CI 🤔"
     },
@@ -229,7 +229,7 @@ const gear_red = [
     },
     {
         "Id": "60303",
-        "Name": "🏗 RED SHOE STRENGTH NO FACTION",
+        "Name": "Soul Boots of Hero",
         "Power": "2637",
         "Attributes": "10500 HP, 880 ATK, 520 DEF 🤔"
     },
@@ -391,7 +391,7 @@ const gear_red = [
     },
     {
         "Id": "60433",
-        "Name": "🏗 RED ACCESSORY STRENGTH FOREST",
+        "Name": "Ring of Thorn Chopper",
         "Power": "4435",
         "Attributes": "35000 HP, 600 ATK 🤔"
     },
