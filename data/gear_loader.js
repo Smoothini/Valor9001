@@ -63,7 +63,7 @@ function prettybutes(attr) {
         case 'CI':
         case 'CR':
         case 'AP':
-          rendered += `<span class="badge-${miniparts[1].toLowerCase()}">${miniparts[0]} ${miniparts[1]}</span>`;
+          rendered += `<span class="badge-${miniparts[1].toLowerCase()}">${miniparts[0]} ${miniparts[1]}</span>&nbsp;`;
           break;
         default:
           rendered += `<span class="badge">${miniparts[0]} ${miniparts[1]}</span>`;
@@ -147,9 +147,9 @@ function updateGearTable() {
   });
 }
 
-function resetFilters() {
+function mnezo(value) {
   document.querySelectorAll('#filters input[type="checkbox"]').forEach(cb => {
-    cb.checked = true;
+    cb.checked = value;
   });
   updateGearTable();
 }
