@@ -52,25 +52,23 @@ function prettybutes(attr) {
   parts = attr.split(',').map(s => s.trim());
 
   if (attr === '' || parts.length === 0) {
-    return '<span class="badge badge-pill badge-warning">!! Missing data !!</span>';
+    return '<span class="badge-event">!! Missing data !!</span>';
   } else {
     parts.forEach(part => {
       miniparts = part.split(' ').map(s => s.trim());
       switch (miniparts[1]) {
         case 'ATK':
-          rendered += `<span class="badge mr-1 badge-danger">${miniparts[0]} ATK</span>`;
-          break;
         case 'DEF':
-          rendered += `<span class="badge mr-1 badge-primary">${miniparts[0]} DEF</span>`;
-          break;
         case 'HP':
-          rendered += `<span class="badge mr-1 badge-success">${miniparts[0]} HP</span>`;
+        case 'CI':
+        case 'CR':
+        case 'AP':
+          rendered += `<span class="badge-${miniparts[1].toLowerCase()}">${miniparts[0]} ${miniparts[1]}</span>`;
           break;
         default:
-          rendered += `<span class="badge mr-1 badge-info">${miniparts[0]} ${miniparts[1]}</span>`;
+          rendered += `<span class="badge">${miniparts[0]} ${miniparts[1]}</span>`;
           break;
       }
-      //rendered += `<span class="badge badge-secondary mr-1">${part}</span>`;
     });
     return rendered + extra;
   }

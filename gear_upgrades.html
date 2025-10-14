@@ -4,83 +4,69 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Valor Gear Upgrades</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css">
+  <title><!-- CHANGE ME --></title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/global.css">
 </head>
 
 <body>
-  <h1>Gear Upgrades</h1>
+  <button class="btn btn-outline-secondary d-md-none" id="menu-toggle">☰</button>
+  <nav id="sidebar"></nav>
 
-  <nav class="nav">
-    <a class="nav-link" href="index.html">Dash</a>
-    <a class="nav-link" href="hero_levelup.html">Level up</a>
-    <a class="nav-link" href="hero_awakening.html">Awakening</a>
-    <a class="nav-link" href="hero_breakthrough.html">Breakthrough</a>
-    <a class="nav-link" href="gear.html">Gear list</a>
-    <a class="nav-link" href="gear_upgrades.html">Gear upgrades</a>
-    <a class="nav-link" href="artifacts.html">Artifacts</a>
-  </nav>
-  <br>
+  <main id="content">
+    <h1>Gear Upgrades</h1>
+    <h4>Base experience per gear type</h4>
+    <i>>The amount of experience each gear provides when used to enhance another gear</i><br>
+    <i>>I accidentally used my white and green ⭐ gear before I started the project, alas I don't have that data
+      (yet)</i>
+    <br>
+    <table class="table table-sm table-responsive table-bordered" id="gear-exp-base-table">
+      <thead>
+        <tr>
+          <th>Color</th>
+          <th>Stars</th>
+          <th>Max Level</th>
+          <th>Base Exp.</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
 
-  <h4>Base experience per gear type</h4>
-  <i>>The amount of experience each gear provides when used to enhance another gear</i><br>
-  <i>>I accidentally used my white and green ⭐ gear before I started the project, alas I don't have that data (yet)</i>
-  <br>
-  <table class="table table-sm table-responsive table-bordered" id="gear-exp-base-table">
-    <thead>
-      <tr>
-        <th>Color</th>
-        <th>Stars</th>
-        <th>Max Level</th>
-        <th>Base Exp.</th>
-      </tr>
-    </thead>
-    <tbody>
-    </tbody>
-  </table>
+    <h4>Experience needed to level up</h4>
+    <select id="gear-select" onchange="updateGearExpTable()">
+      <option value="" disabled selected>Select gear quality</option>
+      <option value="white1" disabled>White ⭐ - Not possible</option>
+      <option value="white2" disabled>White ⭐⭐ - Not possible</option>
+      <option value="green1" disabled>Green ⭐ - Not possible</option>
+      <option value="green2" disabled>Green ⭐⭐ - Not possible</option>
+      <option value="blue1">Blue ⭐</option>
+      <option value="blue2">Blue ⭐⭐</option>
+      <option value="purple1">Purple ⭐</option>
+      <option value="purple2">Purple ⭐⭐</option>
+      <option value="orange1">Orange ⭐</option>
+      <option value="orange2">Orange ⭐⭐</option>
+      <option value="orange3">Orange ⭐⭐⭐</option>
+      <option value="red1">Red</option>
+    </select>
+    <table class="table table-sm table-responsive table-bordered">
+      <thead>
+        <tr>
+          <th>Level</th>
+          <th>Exp.</th>
+          <th>Total</th>
+        </tr>
+      </thead>
+      <tbody id="gear-exp-table">
+      </tbody>
+    </table>
 
-  <h4>Experience needed to level up</h4>
-  <select id="gear-select" onchange="updateGearExpTable()">
-    <option value="" disabled selected>Select gear quality</option>
-    <option value="white1" disabled>White ⭐ - Not possible</option>
-    <option value="white2" disabled>White ⭐⭐ - Not possible</option>
-    <option value="green1" disabled>Green ⭐ - Not possible</option>
-    <option value="green2" disabled>Green ⭐⭐ - Not possible</option>
-    <option value="blue1">Blue ⭐</option>
-    <option value="blue2">Blue ⭐⭐</option>
-    <option value="purple1">Purple ⭐</option>
-    <option value="purple2">Purple ⭐⭐</option>
-    <option value="orange1">Orange ⭐</option>
-    <option value="orange2">Orange ⭐⭐</option>
-    <option value="orange3">Orange ⭐⭐⭐</option>
-    <option value="red1">Red</option>
-  </select>
-  <table class="table table-sm table-responsive table-bordered">
-    <thead>
-      <tr>
-        <th>Level</th>
-        <th>Exp.</th>
-        <th>Total</th>
-      </tr>
-    </thead>
-    <tbody id="gear-exp-table">
-    </tbody>
-  </table>
+    <script src="data/gear_xp.js"></script>
+    <script src="js/gear_upgrade.js"></script>
 
-  <script src="data/gear_xp.js"></script>
-  <script src="js/gear_upgrade.js"></script>
+  </main>
 
-  <br><br><br>
-  <hr>
-  <footer>
-    <a href="https://github.com/Smoothini/Valor9001" target="_blank" class="mx-2 text-decoration-none"
-      title="GitHub"><img src="res/ghl.png" alt="GitHub Logo" style="width:25px;"></a>
-    <a href="https://github.com/Smoothini/Valor9001" target="_blank" class="text-dark mx-2">Source Code</a>
-    <a href="https://smoothini.github.io/" target="_blank" class="text-dark mx-2">Other Cool Projects</a>
-    <br><br>
-    <div class="small mx-2">&copy; <a href="https://github.com/Smoothini" target="_blank"
-        class="text-dark">Smoothini</a> 2025</div>
-  </footer>
+  <script src="js/pagebuilder.js"></script> <!-- ADD TO MENU LIST -->
   <script data-goatcounter="https://valor.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 

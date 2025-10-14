@@ -1,0 +1,132 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    margin: 0;
+  }
+
+  #sidebar {
+    width: 240px;
+    background: #f8f9fa;
+    border-right: 1px solid #dee2e6;
+    padding: 1rem;
+    transition: transform 0.3s ease;
+  }
+  
+  #sidebar a {
+    display: block;
+    padding: 0.5rem 0;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  #sidebar a:hover {
+    text-decoration: underline;
+  }
+  
+  #sidebar a.active {
+    font-weight: 600;
+    color: #0d6efd;
+  }
+  
+  .menu-header {
+    cursor: pointer;
+    font-weight: 600;
+    margin-top: 0.5rem;
+  }
+  
+  .submenu {
+    margin-left: 1rem;
+    display: none;
+  }
+  
+  .submenu.show {
+    display: block;
+  }
+  
+  #content {
+    flex: 1;
+    padding: 2rem;
+  }
+  
+  #content table {
+    max-width: 100%;
+    width: auto;
+  }
+  
+  .footer {
+    text-align: left;
+    margin-top: 2rem;
+  }
+  
+  .footer a img {
+    vertical-align: middle;
+  }
+
+  
+  /* Mobile */
+  @media (max-width: 768px) {
+    #sidebar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100%;
+      transform: translateX(-100%);
+      z-index: 1000;
+    }
+    #sidebar.show {
+      transform: translateX(0);
+    }
+    #menu-toggle {
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      z-index: 1100;
+    }
+  }
+
+  /* ===== BADGES ===== */
+[class^="badge-"], [class*=" badge-"] {
+  display: inline-block;
+  padding: 0.25em 0.6em;
+  font-size: 0.85em;
+  font-weight: 600;
+  line-height: 1;
+  color: #fff;
+  background: #6c757d; /* default neutral */
+  border-radius: 9999px; /* pill */
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  vertical-align: middle;
+  user-select: none;
+}
+
+/* Base hover/focus (optional) */
+[class^="badge-"]:hover {
+  filter: brightness(1.1);
+}
+
+/* Main attributes */
+.badge-atk { background: #e53935; }
+.badge-def { background: #1e88e5; }
+.badge-hp  { background: #43a047; }
+
+/* Advanced attributes with subtle patterns */
+.badge-ci {
+  background: repeating-linear-gradient(45deg, #9c27b0 0 6px, #8e24aa 6px 12px);
+}
+.badge-cr {
+  background: repeating-linear-gradient(45deg, #fbc02d 0 6px, #f9a825 6px 12px);
+}
+.badge-ap {
+  background: repeating-linear-gradient(45deg, #795548 0 6px, #5d4037 6px 12px);
+}
+/* ===== Shape variants ===== */
+.badge-round {
+  border-radius: 50%;
+  padding: 0.4em;
+  width: 1.8em;
+  height: 1.8em;
+  text-align: center;
+}
+
+  
