@@ -225,7 +225,7 @@ const gear_red = [
         "Id": "60302",
         "Name": "🏗 RED SHOE AGILITY NO FACTION",
         "Power": "2283",
-        "Attributes": "8500HP, 940 ATK, 360 DEF 🤔"
+        "Attributes": "8500 HP, 940 ATK, 360 DEF 🤔"
     },
     {
         "Id": "60303",
@@ -243,7 +243,7 @@ const gear_red = [
         "Id": "60312",
         "Name": "Boots of Wraith",
         "Power": "2283",
-        "Attributes": "8500HP, 940 ATK, 360 DEF"
+        "Attributes": "8500 HP, 940 ATK, 360 DEF"
     },
     {
         "Id": "60313",
@@ -261,7 +261,7 @@ const gear_red = [
         "Id": "60322",
         "Name": "Boots of Judgement",
         "Power": "2283",
-        "Attributes": "8500HP, 940 ATK, 360 DEF"
+        "Attributes": "8500 HP, 940 ATK, 360 DEF"
     },
     {
         "Id": "60323",
@@ -279,7 +279,7 @@ const gear_red = [
         "Id": "60332",
         "Name": "Feather Boots",
         "Power": "2283",
-        "Attributes": "8500HP, 940 ATK, 360 DEF"
+        "Attributes": "8500 HP, 940 ATK, 360 DEF"
     },
     {
         "Id": "60333",
@@ -297,7 +297,7 @@ const gear_red = [
         "Id": "60342",
         "Name": "Twisted Boots",
         "Power": "2283",
-        "Attributes": "8500HP, 940 ATK, 360 DEF"
+        "Attributes": "8500 HP, 940 ATK, 360 DEF"
     },
     {
         "Id": "60343",
@@ -315,7 +315,7 @@ const gear_red = [
         "Id": "60352",
         "Name": "Thunder Boots",
         "Power": "2283",
-        "Attributes": "8500HP, 940 ATK, 360 DEF"
+        "Attributes": "8500 HP, 940 ATK, 360 DEF"
     },
     {
         "Id": "60353",

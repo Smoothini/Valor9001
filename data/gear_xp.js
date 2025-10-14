@@ -1,11 +1,11 @@
 const gear_xp = {
     "white": {
         "max_level": 1,
-        "base_xp": [ '?', '?' ], // missing values
+        "base_xp": [ 100, 200 ],
     },
     "green": {
         "max_level": 1,
-        "base_xp": [ '?', 400 ], // missing values
+        "base_xp": [ 300, 400 ], // assuming 300
     },
     "blue": {
         "max_level": 30,
