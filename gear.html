@@ -20,7 +20,6 @@
     <h4>Filters</h4>
     <div id="filters" style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 1rem;">
 
-      <!-- Color Filter -->
       <div>
         <strong>Color</strong><br>
         <label><input type="checkbox" name="color" value="1" checked> White</label><br>
@@ -31,7 +30,6 @@
         <label><input type="checkbox" name="color" value="6" checked> Red</label>
       </div>
 
-      <!-- Stars Filter -->
       <div>
         <strong>Stars</strong><br>
         <label><input type="checkbox" name="stars" value="1" checked> ★</label><br>
@@ -40,7 +38,6 @@
         <label><input type="checkbox" name="stars" value="0" checked> 🔴</label>
       </div>
 
-      <!-- Type Filter -->
       <div>
         <strong>Type</strong><br>
         <label><input type="checkbox" name="type" value="1" checked> Weapon</label><br>
@@ -49,7 +46,6 @@
         <label><input type="checkbox" name="type" value="4" checked> Accessory</label>
       </div>
 
-      <!-- Class Filter -->
       <div>
         <strong>Class</strong><br>
         <label><input type="checkbox" name="class" value="1" checked> Wisdom</label><br>
@@ -57,7 +53,6 @@
         <label><input type="checkbox" name="class" value="3" checked> Strength</label>
       </div>
 
-      <!-- Faction Filter -->
       <div>
         <strong>Faction</strong><br>
         <label><input type="checkbox" name="faction" value="0" checked> No faction</label><br>
@@ -70,9 +65,8 @@
 
     </div>
     <div class="small pl-1">
-      <i>>>> 🏗 - missing data || 🤔/<span class="badge badge-pill badge-warning">?</span> - not confirmed data <<<</i>
-          <br>
-          <i>>>> AP - Armor Pierce || CR - Critical Rate || CI - Critical Immunity <<<</i>
+      <i>>>> 🏗 - missing data || 🤔/<span class="badge badge-pill badge-warning">?</span> - not confirmed data <<< </i><br>
+          <i>>>> <span class="badge-ap">AP</span> - Armor Pierce || <span class="badge-cr">CR</span> - Critical Rate || <span class="badge-ci">CI</span> - Critical Immunity <<< </i>
     </div>
     <button class="btn btn-secondary btn-sm ml-2 pl-2" onclick="mnezo(false)">Clear Filters</button>
     <button class="btn btn-secondary btn-sm ml-2 pl-2" onclick="mnezo(true)">Show All</button>
@@ -98,7 +92,6 @@
         </tr>
       </thead>
       <tbody>
-        <!-- JS will populate rows -->
       </tbody>
     </table>
 

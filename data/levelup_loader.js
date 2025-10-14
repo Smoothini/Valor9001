@@ -979,7 +979,7 @@ const levelData = [
   },
   {
     "Level": 150.5,
-    "Beads": 2600,
+    "Beads": 4600,
     "Gold": 18000,
     "Elixir": 0
   },

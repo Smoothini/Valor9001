@@ -13,9 +13,9 @@ const gear_basic = [
   },
   {
     "Id": 11103,
-    "Name": "🏗 WHITE 1* WEAPON STRENGTH NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Self-Defense Knife",
+    "Power": 7,
+    "Attributes": "6 ATK, 1 DEF"
   },
   {
     "Id": 11201,
@@ -43,9 +43,9 @@ const gear_basic = [
   },
   {
     "Id": 11302,
-    "Name": "Burlap Boots 🤔",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Burlap Boots",
+    "Power": 28,
+    "Attributes": "28 HP, 3 ATK, 2 DEF"
   },
   {
     "Id": 11303,
@@ -67,9 +67,9 @@ const gear_basic = [
   },
   {
     "Id": 11403,
-    "Name": "Silvery Ring 🤔",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Silvery Ring",
+    "Power": 16,
+    "Attributes": "120 HP, 3 ATK"
   },
   {
     "Id": 12101,
@@ -85,7 +85,7 @@ const gear_basic = [
   },
   {
     "Id": 12103,
-    "Name": "🏗 WHITE 2* WEAPON STRENGTH NO FACTION",
+    "Name": "Self-Defense Knife",
     "Power": "",
     "Attributes": ""
   },
@@ -163,7 +163,7 @@ const gear_basic = [
   },
   {
     "Id": 21201,
-    "Name": "Cape 🤔",
+    "Name": "Cape",
     "Power": 31,
     "Attributes": "180 HP, 10 DEF"
   },
