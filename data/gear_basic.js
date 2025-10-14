@@ -1,15 +1,15 @@
 const gear_basic = [
   {
     "Id": 11101,
-    "Name": "🏗 WHITE 1* WEAPON WISDOM NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Magic Staff of Ancient Tree",
+    "Power": 7,
+    "Attributes": "8 ATK"
   },
   {
     "Id": 11102,
-    "Name": "Wooden Longbow 🤔",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Wooden Longbow",
+    "Power": 10,
+    "Attributes": "20 HP, 8 ATK"
   },
   {
     "Id": 11103,
@@ -19,7 +19,7 @@ const gear_basic = [
   },
   {
     "Id": 11201,
-    "Name": "🏗 WHITE 1* ARMOR WISDOM NO FACTION",
+    "Name": "Cloth Top 🤔",
     "Power": "",
     "Attributes": ""
   },
@@ -31,51 +31,51 @@ const gear_basic = [
   },
   {
     "Id": 11203,
-    "Name": "🏗 WHITE 1* ARMOR STRENGTH NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Burlap Cloth",
+    "Power": 13,
+    "Attributes": "80 HP, 4 DEF"
   },
   {
     "Id": 11301,
-    "Name": "🏗 WHITE 1* SHOE WISDOM NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Burlap Boots",
+    "Power": 10,
+    "Attributes": "35 HP, 6 ATK, 1 DEF"
   },
   {
     "Id": 11302,
-    "Name": "🏗 WHITE 1* SHOE AGILITY NO FACTION",
+    "Name": "Burlap Boots 🤔",
     "Power": "",
     "Attributes": ""
   },
   {
     "Id": 11303,
-    "Name": "🏗 WHITE 1* SHOE STRENGTH NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Burlap Boots",
+    "Power": 10,
+    "Attributes": "34 HP, 4 ATK, 2 DEF"
   },
   {
     "Id": 11401,
-    "Name": "🏗 WHITE 1* ACCESSORY WISDOM NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Pendant of Animal Bones",
+    "Power": 12,
+    "Attributes": "70 HP, 5 ATK"
   },
   {
     "Id": 11402,
-    "Name": "🏗 WHITE 1* ACCESSORY AGILITY NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Quaint Ring",
+    "Power": 11,
+    "Attributes": "70 HP, 4 ATK"
   },
   {
     "Id": 11403,
-    "Name": "🏗 WHITE 1* ACCESSORY STRENGTH NO FACTION",
+    "Name": "Silvery Ring 🤔",
     "Power": "",
     "Attributes": ""
   },
   {
     "Id": 12101,
-    "Name": "🏗 WHITE 2* WEAPON WISDOM NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Magic Staff of Ancient Tree",
+    "Power": 9,
+    "Attributes": "10 ATK"
   },
   {
     "Id": 12102,
@@ -91,9 +91,9 @@ const gear_basic = [
   },
   {
     "Id": 12201,
-    "Name": "🏗 WHITE 2* ARMOR WISDOM NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Cloth Top",
+    "Power": 17,
+    "Attributes": "100 HP, 5 DEF"
   },
   {
     "Id": 12202,
@@ -103,45 +103,45 @@ const gear_basic = [
   },
   {
     "Id": 12203,
-    "Name": "🏗 WHITE 2* ARMOR STRENGTH NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Burlap Cloth",
+    "Power": 19,
+    "Attributes": "114 HP, 6 DEF"
   },
   {
     "Id": 12301,
-    "Name": "🏗 WHITE 2* SHOE WISDOM NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Burlap Boots",
+    "Power": 14,
+    "Attributes": "50 HP, 7 ATK, 2 DEF"
   },
   {
     "Id": 12302,
-    "Name": "🏗 WHITE 2* SHOE AGILITY NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Burlap Boots",
+    "Power": 12,
+    "Attributes": "40 HP, 5 ATK, 3 DEF"
   },
   {
     "Id": 12303,
-    "Name": "🏗 WHITE 2* SHOE STRENGTH NO FACTION",
+    "Name": "Burlap Boots 🤔",
     "Power": "",
     "Attributes": ""
   },
   {
     "Id": 12401,
-    "Name": "🏗 WHITE 2* ACCESSORY WISDOM NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Pendant of Animal Bones",
+    "Power": 16,
+    "Attributes": "100 HP, 6 ATK"
   },
   {
     "Id": 12402,
-    "Name": "🏗 WHITE 2* ACCESSORY AGILITY NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Quaint Ring",
+    "Power": 15,
+    "Attributes": "100 HP, 5 ATK"
   },
   {
     "Id": 12403,
-    "Name": "🏗 WHITE 2* ACCESSORY STRENGTH NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Silvery Ring",
+    "Power": 22,
+    "Attributes": "170 HP, 4 ATK"
   },
   {
     "Id": 21101,

@@ -34,3 +34,12 @@ Plan/Stuff to add/Etc.. :
     - [ ] Nicer UI, especially mobile
     - [ ] Images (maybe)
     - [ ] Dark mode
+
+
+---
+
+### Changelog
+
+
+2025-10-14:
+  - added white gear
