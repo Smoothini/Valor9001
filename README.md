@@ -31,7 +31,7 @@ Plan/Stuff to add/Etc.. :
   - Events
     - [ ] List of events with rewards and all'attt
   - Overall
-    - [ ] Nicer UI, especially mobile
+    - [X] Nicer UI, especially mobile
     - [ ] Images (maybe)
     - [ ] Dark mode
 
@@ -40,6 +40,10 @@ Plan/Stuff to add/Etc.. :
 
 ### Changelog
 
+2025-10-15:
+  - added more data
 
 2025-10-14:
   - added white gear
+  - added more gear filtering
+  - new js based menu so I don't gotta copy/paste the same fkahh template and add new menu item on all the pages fuk

@@ -163,7 +163,7 @@ const gear_orange = [
   },
   {
     "Id": "51231",
-    "Name": "🏗 ORANGE 1* ARMOR WISDOM FOREST",
+    "Name": "Element Cape",
     "Power": "644",
     "Attributes": "4000 HP, 170 DEF 🤔"
   },
@@ -595,9 +595,9 @@ const gear_orange = [
   },
   {
     "Id": "52231",
-    "Name": "🏗 ORANGE 2* ARMOR WISDOM FOREST",
+    "Name": "Element Cape",
     "Power": "1074",
-    "Attributes": "6600 HP, 290 DEF 🤔"
+    "Attributes": "6600 HP, 290 DEF"
   },
   {
     "Id": "52232",
@@ -1027,7 +1027,7 @@ const gear_orange = [
   },
   {
     "Id": "53231",
-    "Name": "🏗 ORANGE 3* ARMOR WISDOM FOREST",
+    "Name": "Moon Shadow Top",
     "Power": "1664",
     "Attributes": "10000 HP, 470 DEF 🤔"
   },
@@ -1165,9 +1165,9 @@ const gear_orange = [
   },
   {
     "Id": "53343",
-    "Name": "🏗 ORANGE 3* SHOE STRENGTH SHADOW",
+    "Name": "Footwraps of Destroy",
     "Power": "1389",
-    "Attributes": "5500 HP, 460 ATK, 280 DEF 🤔"
+    "Attributes": "5500 HP, 460 ATK, 280 DEF"
   },
   {
     "Id": "53351",

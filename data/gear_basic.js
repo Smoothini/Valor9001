@@ -19,15 +19,15 @@ const gear_basic = [
   },
   {
     "Id": 11201,
-    "Name": "Cloth Top 🤔",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Cloth Top",
+    "Power": 12,
+    "Attributes": "70 HP, 4 DEF"
   },
   {
     "Id": 11202,
-    "Name": "🏗 WHITE 1* ARMOR AGILITY NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Cloth Top",
+    "Power": 12,
+    "Attributes": "70 HP, 4 DEF"
   },
   {
     "Id": 11203,
@@ -86,8 +86,8 @@ const gear_basic = [
   {
     "Id": 12103,
     "Name": "Self-Defense Knife",
-    "Power": "",
-    "Attributes": ""
+    "Power": 10,
+    "Attributes": "8 ATK, 2 DEF"
   },
   {
     "Id": 12201,
@@ -97,9 +97,9 @@ const gear_basic = [
   },
   {
     "Id": 12202,
-    "Name": "🏗 WHITE 2* ARMOR AGILITY NO FACTION",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Cloth Top",
+    "Power": 17,
+    "Attributes": "100 HP, 5 DEF"
   },
   {
     "Id": 12203,
@@ -121,9 +121,9 @@ const gear_basic = [
   },
   {
     "Id": 12303,
-    "Name": "Burlap Boots 🤔",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Burlap Boots",
+    "Power": 13,
+    "Attributes": "50 HP, 5 ATK, 3 DEF"
   },
   {
     "Id": 12401,
