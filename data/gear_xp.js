@@ -5,7 +5,7 @@ const gear_xp = {
     },
     "green": {
         "max_level": 1,
-        "base_xp": [ 300, 400 ], // assuming 300
+        "base_xp": [ 300, 400 ],
     },
     "blue": {
         "max_level": 30,
