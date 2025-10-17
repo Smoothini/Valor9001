@@ -7,6 +7,7 @@ const menuData = [
         { name: "Level up", link: "hero_levelup.html" },
         { name: "Awakening", link: "hero_awakening.html" },
         { name: "Breakthrough", link: "hero_breakthrough.html" },
+        { name: "Exclusive Weapon", link: "hero_weapon.html" },
       ],
     },
     {
