@@ -21,55 +21,55 @@ const gear_red = [
         "Id": "60111",
         "Name": "🏗 RED WEAPON WISDOM UNDEAD",
         "Power": "1950",
-        "Attributes": "2000 ATK, 4.5% AP 🤔"
+        "Attributes": "2000 ATK, 4.5% AP"
     },
     {
         "Id": "60112",
         "Name": "🏗 RED WEAPON AGILITY UNDEAD",
         "Power": "2479",
-        "Attributes": "5700 HP, 1900 ATK, 4.5% CR 🤔"
+        "Attributes": "5700 HP, 1900 ATK, 4.5% CR"
     },
     {
         "Id": "60113",
         "Name": "🏗 RED WEAPON STRENGTH UNDEAD",
         "Power": "1788",
-        "Attributes": "1500 ATK, 272 DEF, 4.5% CI 🤔"
+        "Attributes": "1500 ATK, 272 DEF, 4.5% CI"
     },
     {
         "Id": "60121",
         "Name": "🏗 RED WEAPON WISDOM LEGION",
         "Power": "1950",
-        "Attributes": "2000 ATK, 4.5% AP 🤔"
+        "Attributes": "2000 ATK, 4.5% AP"
     },
     {
         "Id": "60122",
         "Name": "🏗 RED WEAPON AGILITY LEGION",
         "Power": "2479",
-        "Attributes": "5700 HP, 1900 ATK, 4.5% CR 🤔"
+        "Attributes": "5700 HP, 1900 ATK, 4.5% CR"
     },
     {
         "Id": "60123",
         "Name": "🏗 RED WEAPON STRENGTH LEGION",
         "Power": "1788",
-        "Attributes": "1500 ATK, 272 DEF, 4.5% CI 🤔"
+        "Attributes": "1500 ATK, 272 DEF, 4.5% CI"
     },
     {
         "Id": "60131",
         "Name": "🏗 RED WEAPON WISDOM FOREST",
         "Power": "1950",
-        "Attributes": "2000 ATK, 4.5% AP 🤔"
+        "Attributes": "2000 ATK, 4.5% AP"
     },
     {
         "Id": "60132",
         "Name": "🏗 RED WEAPON AGILITY FOREST",
         "Power": "2479",
-        "Attributes": "5700 HP, 1900 ATK, 4.5% CR 🤔"
+        "Attributes": "5700 HP, 1900 ATK, 4.5% CR"
     },
     {
         "Id": "60133",
         "Name": "Thorn Chopper",
         "Power": "1788",
-        "Attributes": "1500 ATK, 272 DEF, 4.5% CI 🤔"
+        "Attributes": "1500 ATK, 272 DEF, 4.5% CI"
     },
     {
         "Id": "60141",
@@ -81,13 +81,13 @@ const gear_red = [
         "Id": "60142",
         "Name": "🏗 RED WEAPON AGILITY SHADOW",
         "Power": "2479",
-        "Attributes": "5700 HP, 1900 ATK, 4.5% CR 🤔"
+        "Attributes": "5700 HP, 1900 ATK, 4.5% CR"
     },
     {
         "Id": "60143",
         "Name": "🏗 RED WEAPON STRENGTH SHADOW",
         "Power": "1788",
-        "Attributes": "1500 ATK, 272 DEF, 4.5% CI 🤔"
+        "Attributes": "1500 ATK, 272 DEF, 4.5% CI"
     },
     {
         "Id": "60151",
@@ -99,19 +99,19 @@ const gear_red = [
         "Id": "60152",
         "Name": "🏗 RED WEAPON AGILITY LIGHT",
         "Power": "2479",
-        "Attributes": "5700 HP, 1900 ATK, 4.5% CR 🤔"
+        "Attributes": "5700 HP, 1900 ATK, 4.5% CR"
     },
     {
         "Id": "60153",
         "Name": "🏗 RED WEAPON STRENGTH LIGHT",
         "Power": "1788",
-        "Attributes": "1500 ATK, 272 DEF, 4.5% CI 🤔"
+        "Attributes": "1500 ATK, 272 DEF, 4.5% CI"
     },
     {
         "Id": "60201",
         "Name": "🏗 RED ARMOR WISDOM NO FACTION",
         "Power": "3390",
-        "Attributes": "21000 HP, 900 DEF 🤔"
+        "Attributes": "21000 HP, 900 DEF"
     },
     {
         "Id": "60202",
@@ -123,7 +123,7 @@ const gear_red = [
         "Id": "60203",
         "Name": "🏗 RED ARMOR STRENGTH NO FACTION",
         "Power": "3902",
-        "Attributes": "25000 HP, 960 DEF 🤔"
+        "Attributes": "25000 HP, 960 DEF"
     },
     {
         "Id": "60211",
@@ -135,55 +135,55 @@ const gear_red = [
         "Id": "60212",
         "Name": "🏗 RED ARMOR AGILITY UNDEAD",
         "Power": "3630",
-        "Attributes": "21000 HP, 1100 DEF 🤔"
+        "Attributes": "21000 HP, 1100 DEF"
     },
     {
         "Id": "60213",
         "Name": "🏗 RED ARMOR STRENGTH UNDEAD",
         "Power": "3902",
-        "Attributes": "25000 HP, 960 DEF 🤔"
+        "Attributes": "25000 HP, 960 DEF"
     },
     {
         "Id": "60221",
         "Name": "🏗 RED ARMOR WISDOM LEGION",
         "Power": "3390",
-        "Attributes": "21000 HP, 900 DEF 🤔"
+        "Attributes": "21000 HP, 900 DEF"
     },
     {
         "Id": "60222",
         "Name": "🏗 RED ARMOR AGILITY LEGION",
         "Power": "3630",
-        "Attributes": "21000 HP, 1100 DEF 🤔"
+        "Attributes": "21000 HP, 1100 DEF"
     },
     {
         "Id": "60223",
         "Name": "🏗 RED ARMOR STRENGTH LEGION",
         "Power": "3902",
-        "Attributes": "25000 HP, 960 DEF 🤔"
+        "Attributes": "25000 HP, 960 DEF"
     },
     {
         "Id": "60231",
         "Name": "🏗 RED ARMOR WISDOM FOREST",
         "Power": "3390",
-        "Attributes": "21000 HP, 900 DEF 🤔"
+        "Attributes": "21000 HP, 900 DEF"
     },
     {
         "Id": "60232",
         "Name": "🏗 RED ARMOR AGILITY FOREST",
         "Power": "3630",
-        "Attributes": "21000 HP, 1100 DEF 🤔"
+        "Attributes": "21000 HP, 1100 DEF"
     },
     {
         "Id": "60233",
         "Name": "🏗 RED ARMOR STRENGTH FOREST",
         "Power": "3902",
-        "Attributes": "25000 HP, 960 DEF 🤔"
+        "Attributes": "25000 HP, 960 DEF"
     },
     {
         "Id": "60241",
         "Name": "🏗 RED ARMOR WISDOM SHADOW",
         "Power": "3390",
-        "Attributes": "21000 HP, 900 DEF 🤔"
+        "Attributes": "21000 HP, 900 DEF"
     },
     {
         "Id": "60242",
@@ -195,19 +195,19 @@ const gear_red = [
         "Id": "60243",
         "Name": "🏗 RED ARMOR STRENGTH SHADOW",
         "Power": "3902",
-        "Attributes": "25000 HP, 960 DEF 🤔"
+        "Attributes": "25000 HP, 960 DEF"
     },
     {
         "Id": "60251",
         "Name": "🏗 RED ARMOR WISDOM LIGHT",
         "Power": "3390",
-        "Attributes": "21000 HP, 900 DEF 🤔"
+        "Attributes": "21000 HP, 900 DEF"
     },
     {
         "Id": "60252",
         "Name": "🏗 RED ARMOR AGILITY LIGHT",
         "Power": "3630",
-        "Attributes": "21000 HP, 1100 DEF 🤔"
+        "Attributes": "21000 HP, 1100 DEF"
     },
     {
         "Id": "60253",
@@ -219,19 +219,19 @@ const gear_red = [
         "Id": "60301",
         "Name": "🏗 RED SHOE WISDOM NO FACTION",
         "Power": "2749",
-        "Attributes": "10500 HP, 1340 ATK, 240 DEF 🤔"
+        "Attributes": "10500 HP, 1340 ATK, 240 DEF"
     },
     {
         "Id": "60302",
         "Name": "🏗 RED SHOE AGILITY NO FACTION",
         "Power": "2283",
-        "Attributes": "8500 HP, 940 ATK, 360 DEF 🤔"
+        "Attributes": "8500 HP, 940 ATK, 360 DEF"
     },
     {
         "Id": "60303",
         "Name": "Soul Boots of Hero",
         "Power": "2637",
-        "Attributes": "10500 HP, 880 ATK, 520 DEF 🤔"
+        "Attributes": "10500 HP, 880 ATK, 520 DEF"
     },
     {
         "Id": "60311",
@@ -327,7 +327,7 @@ const gear_red = [
         "Id": "60401",
         "Name": "🏗 RED ACCESSORY WISDOM NO FACTION",
         "Power": "3382",
-        "Attributes": "21000 HP, 1100 ATK 🤔"
+        "Attributes": "21000 HP, 1100 ATK"
     },
     {
         "Id": "60402",
@@ -345,73 +345,73 @@ const gear_red = [
         "Id": "60411",
         "Name": "🏗 RED ACCESSORY WISDOM UNDEAD",
         "Power": "3382",
-        "Attributes": "21000 HP, 1100 ATK 🤔"
+        "Attributes": "21000 HP, 1100 ATK"
     },
     {
         "Id": "60412",
         "Name": "🏗 RED ACCESSORY AGILITY UNDEAD",
         "Power": "3226",
-        "Attributes": "21000 HP, 940 ATK 🤔"
+        "Attributes": "21000 HP, 940 ATK"
     },
     {
         "Id": "60413",
         "Name": "🏗 RED ACCESSORY STRENGTH UNDEAD",
         "Power": "4435",
-        "Attributes": "35000 HP, 600 ATK 🤔"
+        "Attributes": "35000 HP, 600 ATK"
     },
     {
         "Id": "60421",
         "Name": "🏗 RED ACCESSORY WISDOM LEGION",
         "Power": "3382",
-        "Attributes": "21000 HP, 1100 ATK 🤔"
+        "Attributes": "21000 HP, 1100 ATK"
     },
     {
         "Id": "60422",
         "Name": "🏗 RED ACCESSORY AGILITY LEGION",
         "Power": "3226",
-        "Attributes": "21000 HP, 940 ATK 🤔"
+        "Attributes": "21000 HP, 940 ATK"
     },
     {
         "Id": "60423",
         "Name": "🏗 RED ACCESSORY STRENGTH LEGION",
         "Power": "4435",
-        "Attributes": "35000 HP, 600 ATK 🤔"
+        "Attributes": "35000 HP, 600 ATK"
     },
     {
         "Id": "60431",
         "Name": "🏗 RED ACCESSORY WISDOM FOREST",
         "Power": "3382",
-        "Attributes": "21000 HP, 1100 ATK 🤔"
+        "Attributes": "21000 HP, 1100 ATK"
     },
     {
         "Id": "60432",
         "Name": "🏗 RED ACCESSORY AGILITY FOREST",
         "Power": "3226",
-        "Attributes": "21000 HP, 940 ATK 🤔"
+        "Attributes": "21000 HP, 940 ATK"
     },
     {
         "Id": "60433",
         "Name": "Ring of Thorn Chopper",
         "Power": "4435",
-        "Attributes": "35000 HP, 600 ATK 🤔"
+        "Attributes": "35000 HP, 600 ATK"
     },
     {
         "Id": "60441",
         "Name": "🏗 RED ACCESSORY WISDOM SHADOW",
         "Power": "3382",
-        "Attributes": "21000 HP, 1100 ATK 🤔"
+        "Attributes": "21000 HP, 1100 ATK"
     },
     {
         "Id": "60442",
         "Name": "🏗 RED ACCESSORY AGILITY SHADOW",
         "Power": "3226",
-        "Attributes": "21000 HP, 940 ATK 🤔"
+        "Attributes": "21000 HP, 940 ATK"
     },
     {
         "Id": "60443",
         "Name": "🏗 RED ACCESSORY STRENGTH SHADOW",
         "Power": "4435",
-        "Attributes": "35000 HP, 600 ATK 🤔"
+        "Attributes": "35000 HP, 600 ATK"
     },
     {
         "Id": "60451",
@@ -423,12 +423,12 @@ const gear_red = [
         "Id": "60452",
         "Name": "🏗 RED ACCESSORY AGILITY LIGHT",
         "Power": "3226",
-        "Attributes": "21000 HP, 940 ATK 🤔"
+        "Attributes": "21000 HP, 940 ATK"
     },
     {
         "Id": "60453",
         "Name": "🏗 RED ACCESSORY STRENGTH LIGHT",
         "Power": "4435",
-        "Attributes": "35000 HP, 600 ATK 🤔"
+        "Attributes": "35000 HP, 600 ATK"
     }
 ]

@@ -27,7 +27,7 @@ const gear_orange = [
     "Id": "51112",
     "Name": "Crossbow of Silent Night 🤔2️⃣",
     "Power": "462",
-    "Attributes": "1100 HP, 350 ATK, 2.1% CR 🤔"
+    "Attributes": "1100 HP, 350 ATK, 2.1% CR"
   },
   {
     "Id": "51113",
@@ -105,7 +105,7 @@ const gear_orange = [
     "Id": "51153",
     "Name": "Dawn Sword 🤔2️⃣",
     "Power": "333",
-    "Attributes": "280 ATK, 50 DEF, 2.1% CI 🤔"
+    "Attributes": "280 ATK, 50 DEF, 2.1% CI"
   },
   {
     "Id": "51201",
@@ -147,7 +147,7 @@ const gear_orange = [
     "Id": "51221",
     "Name": "Cape of Academy 🤔2️⃣",
     "Power": "644",
-    "Attributes": "4000 HP, 170 DEF 🤔"
+    "Attributes": "4000 HP, 170 DEF"
   },
   {
     "Id": "51222",
@@ -165,7 +165,7 @@ const gear_orange = [
     "Id": "51231",
     "Name": "Element Cape",
     "Power": "644",
-    "Attributes": "4000 HP, 170 DEF 🤔"
+    "Attributes": "4000 HP, 170 DEF"
   },
   {
     "Id": "51232",
@@ -237,7 +237,7 @@ const gear_orange = [
     "Id": "51311",
     "Name": "Footwraps of Wraith 🤔2️⃣",
     "Power": "508",
-    "Attributes": "2000 HP, 240 ATK, 45 DEF 🤔"
+    "Attributes": "2000 HP, 240 ATK, 45 DEF"
   },
   {
     "Id": "51312",
@@ -267,7 +267,7 @@ const gear_orange = [
     "Id": "51323",
     "Name": "Boots of Justice 🤔2️⃣",
     "Power": "505",
-    "Attributes": "2000 HP, 170 ATK, 100 DEF 🤔"
+    "Attributes": "2000 HP, 170 ATK, 100 DEF"
   },
   {
     "Id": "51331",
@@ -393,13 +393,13 @@ const gear_orange = [
     "Id": "51433",
     "Name": "Vitality Ring 🤔2️⃣",
     "Power": "833",
-    "Attributes": "6600 HP, 110 ATK 🤔"
+    "Attributes": "6600 HP, 110 ATK"
   },
   {
     "Id": "51441",
     "Name": "Necklace of Constrain 🤔2️⃣",
     "Power": "635",
-    "Attributes": "4000 HP, 200 ATK 🤔"
+    "Attributes": "4000 HP, 200 ATK"
   },
   {
     "Id": "51442",
@@ -411,7 +411,7 @@ const gear_orange = [
     "Id": "51443",
     "Name": "Ring of Zeal 🤔2️⃣",
     "Power": "833",
-    "Attributes": "6600 HP, 110 ATK 🤔"
+    "Attributes": "6600 HP, 110 ATK"
   },
   {
     "Id": "51451",
@@ -429,7 +429,7 @@ const gear_orange = [
     "Id": "51453",
     "Name": "Dawn Ring 🤔2️⃣",
     "Power": "833",
-    "Attributes": "6600 HP, 110 ATK 🤔"
+    "Attributes": "6600 HP, 110 ATK"
   },
   {
     "Id": "52101",
@@ -495,7 +495,7 @@ const gear_orange = [
     "Id": "52132",
     "Name": "Traveler's Crossbow 🤔1️⃣",
     "Power": "783",
-    "Attributes": "1800 HP, 600 ATK, 2.8% CR 🤔"
+    "Attributes": "1800 HP, 600 ATK, 2.8% CR"
   },
   {
     "Id": "52133",
@@ -507,7 +507,7 @@ const gear_orange = [
     "Id": "52141",
     "Name": "Magic Staff of Constrain 🤔1️⃣",
     "Power": "585",
-    "Attributes": "600 ATK, 2.8% AP 🤔"
+    "Attributes": "600 ATK, 2.8% AP"
   },
   {
     "Id": "52142",
@@ -573,7 +573,7 @@ const gear_orange = [
     "Id": "52213",
     "Name": "Dusk Armor 🤔1️⃣",
     "Power": "1218",
-    "Attributes": "7800 HP, 300 DEF 🤔"
+    "Attributes": "7800 HP, 300 DEF"
   },
   {
     "Id": "52221",
@@ -675,7 +675,7 @@ const gear_orange = [
     "Id": "52312",
     "Name": "Boots of Silent Night 🤔1️⃣",
     "Power": "733",
-    "Attributes": "2700 HP, 300 ATK, 120 DEF 🤔"
+    "Attributes": "2700 HP, 300 ATK, 120 DEF"
   },
   {
     "Id": "52313",
@@ -711,7 +711,7 @@ const gear_orange = [
     "Id": "52332",
     "Name": "Traveler's Boots 🤔1️⃣",
     "Power": "733",
-    "Attributes": "2700 HP, 300 ATK, 120 DEF 🤔"
+    "Attributes": "2700 HP, 300 ATK, 120 DEF"
   },
   {
     "Id": "52333",
@@ -897,13 +897,13 @@ const gear_orange = [
     "Id": "53113",
     "Name": "🏗 ORANGE 3* WEAPON STRENGTH UNDEAD",
     "Power": "909",
-    "Attributes": "760 ATK, 140 DEF, 3.5% CI 🤔"
+    "Attributes": "760 ATK, 140 DEF, 3.5% CI"
   },
   {
     "Id": "53121",
     "Name": "🏗 ORANGE 3* WEAPON WISDOM LEGION",
     "Power": "975",
-    "Attributes": "1000 ATK, 3.5% AP 🤔"
+    "Attributes": "1000 ATK, 3.5% AP"
   },
   {
     "Id": "53122",
@@ -945,13 +945,13 @@ const gear_orange = [
     "Id": "53142",
     "Name": "🏗 ORANGE 3* WEAPON AGILITY SHADOW",
     "Power": "1305",
-    "Attributes": "3000 HP, 1000 ATK, 3.5% CR 🤔"
+    "Attributes": "3000 HP, 1000 ATK, 3.5% CR"
   },
   {
     "Id": "53143",
     "Name": "🏗 ORANGE 3* WEAPON STRENGTH SHADOW",
     "Power": "909",
-    "Attributes": "760 ATK, 140 DEF, 3.5% CI 🤔"
+    "Attributes": "760 ATK, 140 DEF, 3.5% CI"
   },
   {
     "Id": "53151",
@@ -993,7 +993,7 @@ const gear_orange = [
     "Id": "53211",
     "Name": "🏗 ORANGE 3* ARMOR WISDOM UNDEAD",
     "Power": "1664",
-    "Attributes": "10000 HP, 470 DEF 🤔"
+    "Attributes": "10000 HP, 470 DEF"
   },
   {
     "Id": "53212",
@@ -1011,7 +1011,7 @@ const gear_orange = [
     "Id": "53221",
     "Name": "🏗 ORANGE 3* ARMOR WISDOM LEGION",
     "Power": "1664",
-    "Attributes": "10000 HP, 470 DEF 🤔"
+    "Attributes": "10000 HP, 470 DEF"
   },
   {
     "Id": "53222",
@@ -1029,7 +1029,7 @@ const gear_orange = [
     "Id": "53231",
     "Name": "Moon Shadow Top",
     "Power": "1664",
-    "Attributes": "10000 HP, 470 DEF 🤔"
+    "Attributes": "10000 HP, 470 DEF"
   },
   {
     "Id": "53232",
@@ -1053,7 +1053,7 @@ const gear_orange = [
     "Id": "53242",
     "Name": "🏗 ORANGE 3* ARMOR AGILITY SHADOW",
     "Power": "1882",
-    "Attributes": "11000 HP, 560 DEF 🤔"
+    "Attributes": "11000 HP, 560 DEF"
   },
   {
     "Id": "53243",
@@ -1107,13 +1107,13 @@ const gear_orange = [
     "Id": "53312",
     "Name": "🏗 ORANGE 3* SHOE AGILITY UNDEAD",
     "Power": "1199",
-    "Attributes": "4400 HP, 500 ATK, 190 DEF 🤔"
+    "Attributes": "4400 HP, 500 ATK, 190 DEF"
   },
   {
     "Id": "53313",
     "Name": "🏗 ORANGE 3* SHOE STRENGTH UNDEAD",
     "Power": "1389",
-    "Attributes": "5500 HP, 460 ATK, 280 DEF 🤔"
+    "Attributes": "5500 HP, 460 ATK, 280 DEF"
   },
   {
     "Id": "53321",
@@ -1251,7 +1251,7 @@ const gear_orange = [
     "Id": "53432",
     "Name": "🏗 ORANGE 3* ACCESSORY AGILITY FOREST",
     "Power": "1697",
-    "Attributes": "11000 HP, 500 ATK 🤔"
+    "Attributes": "11000 HP, 500 ATK"
   },
   {
     "Id": "53433",
@@ -1281,7 +1281,7 @@ const gear_orange = [
     "Id": "53451",
     "Name": "🏗 ORANGE 3* ACCESSORY WISDOM LIGHT",
     "Power": "1746",
-    "Attributes": "11000 HP, 550 ATK 🤔"
+    "Attributes": "11000 HP, 550 ATK"
   },
   {
     "Id": "53452",

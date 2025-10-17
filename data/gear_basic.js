@@ -193,9 +193,9 @@ const gear_basic = [
   },
   {
     "Id": 21303,
-    "Name": "Flax Ankle Boots 🤔",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Flax Ankle Boots",
+    "Power": "24",
+    "Attributes": "88 HP, 9 ATK, 5 DEF"
   },
   {
     "Id": 21401,
@@ -205,9 +205,9 @@ const gear_basic = [
   },
   {
     "Id": 21402,
-    "Name": "Wooden Ring 🤔",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Wooden Ring",
+    "Power": "29",
+    "Attributes": "180 HP, 10 ATK"
   },
   {
     "Id": 21403,
