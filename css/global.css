@@ -120,3 +120,56 @@ body {
 .badge-ap {
   background: repeating-linear-gradient(45deg, #795548 0 6px, #5d4037 6px 12px);
 } 
+
+.sbadge-yellow,
+.sbadge-purple,
+.sbadge-special {
+  display: inline-block;
+  font-size: 20px;
+  font-family: "Segoe UI Emoji", sans-serif;
+  line-height: 1;
+  margin: 4px;
+  padding: 2px 6px;
+  border-radius: 6px;
+  color: #fff;
+  position: relative;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+/* Yellow stars */
+.sbadge-yellow::before {
+  color: #b38600;
+}
+
+/* Purple stars */
+.sbadge-purple::before {
+  color: #6a2ca8;
+}
+
+.sbadge-yellow[data-stars="1"]::before { content: "★"; }
+.sbadge-yellow[data-stars="2"]::before { content: "★★"; }
+.sbadge-yellow[data-stars="3"]::before { content: "★★★"; }
+.sbadge-yellow[data-stars="4"]::before { content: "★★★★"; }
+.sbadge-yellow[data-stars="5"]::before { content: "★★★★★"; }
+.sbadge-yellow[data-stars="4"][data-type="other"]::before { content: "☆☆☆☆"; }
+.sbadge-yellow[data-stars="5"][data-type="other"]::before { content: "☆☆☆☆☆"; }
+
+.sbadge-purple[data-stars="6"]::before { content: "★"; }
+.sbadge-purple[data-stars="7"]::before { content: "★★"; }
+.sbadge-purple[data-stars="8"]::before { content: "★★★"; }
+.sbadge-purple[data-stars="9"]::before { content: "★★★★"; }
+.sbadge-purple[data-stars="10"]::before { content: "★★★★★"; }
+
+.sbadge-special::before {
+  content: "⁕✦" attr(data-stars) "✦⁕";
+  font-size: 16px;
+  letter-spacing: 1px;
+  color: #d2691e;
+  text-shadow: 0 0 4px rgba(255, 255, 150, 0.7);
+  display: inline-block;
+}
+
+.sbadge-special[data-stars="0"]::before {
+  content: "⁕ ✦ ⁕";
+}

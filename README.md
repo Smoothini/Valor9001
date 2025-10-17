@@ -34,6 +34,9 @@ Plan/Stuff to add/Etc.. :
     - [X] Nicer UI, especially mobile
     - [ ] Images (maybe)
     - [ ] Dark mode
+  - Talisman
+    - [ ] List
+    - [ ] Upgrades
 
 
 ---
