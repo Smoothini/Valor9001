@@ -182,19 +182,19 @@ const gear_basic = [
   {
     "Id": 21301,
     "Name": "Flax Ankle Boots",
-    "Power": "",
-    "Attributes": ""
+    "Power": 26,
+    "Attributes": "90 HP, 13 ATK, 3 DEF"
   },
   {
     "Id": 21302,
-    "Name": "Flax Ankle Boots 🤔",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Flax Ankle Boots",
+    "Power": 22,
+    "Attributes": "70 HP, 10 ATK, 4 DEF"
   },
   {
     "Id": 21303,
     "Name": "Flax Ankle Boots",
-    "Power": "24",
+    "Power": 24,
     "Attributes": "88 HP, 9 ATK, 5 DEF"
   },
   {
