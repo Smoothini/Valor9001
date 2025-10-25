@@ -157,9 +157,9 @@ const gear_basic = [
   },
   {
     "Id": 21103,
-    "Name": "Bravery Dagger 🤔",
-    "Power": "",
-    "Attributes": ""
+    "Name": "Bravery Dagger",
+    "Power": 18,
+    "Attributes": "15 ATK, 3 DEF"
   },
   {
     "Id": 21201,
@@ -464,7 +464,7 @@ const gear_basic = [
   {
     "Id": 41203,
     "Name": "Adventurer Light Vest",
-    "Power": "",
+    "Power": 187,
     "Attributes": "1200 HP, 46 DEF"
   },
   {
