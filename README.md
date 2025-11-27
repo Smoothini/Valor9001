@@ -55,6 +55,9 @@ Plan/Stuff to add/Etc.. :
 
 ### Changelog
 
+2025-11-27:
+  - eyyy after long grinding time, finally unlocked breakthroughs 🎉
+
 2025-10-25:
   - still no automatic solution but full set of items data bellow orange 💪
 
