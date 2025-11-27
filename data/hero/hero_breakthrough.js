@@ -1,6 +1,12 @@
 const btData = [
   {
     "Level": 260,
+    "Stage": 0,
+    "Gold": "5 heroes",
+    "Energy Essence": "at level 260"
+  },
+  {
+    "Level": 260,
     "Stage": 1,
     "Gold": 400000,
     "Energy Essence": 250000

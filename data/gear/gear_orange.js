@@ -103,7 +103,7 @@ const gear_orange = [
   },
   {
     "Id": "51153",
-    "Name": "Dawn Sword 🤔2️⃣",
+    "Name": "Dawn Sword",
     "Power": "333",
     "Attributes": "280 ATK, 50 DEF, 2.1% CI"
   },
@@ -397,7 +397,7 @@ const gear_orange = [
   },
   {
     "Id": "51441",
-    "Name": "Necklace of Constrain 🤔2️⃣",
+    "Name": "Necklace of Constrain",
     "Power": "635",
     "Attributes": "4000 HP, 200 ATK"
   },
@@ -505,7 +505,7 @@ const gear_orange = [
   },
   {
     "Id": "52141",
-    "Name": "Magic Staff of Constrain 🤔1️⃣",
+    "Name": "Magic Staff of Constrain",
     "Power": "585",
     "Attributes": "600 ATK, 2.8% AP"
   },
@@ -571,7 +571,7 @@ const gear_orange = [
   },
   {
     "Id": "52213",
-    "Name": "Dusk Armor 🤔1️⃣",
+    "Name": "Dusk Armor",
     "Power": "1218",
     "Attributes": "7800 HP, 300 DEF"
   },
@@ -673,7 +673,7 @@ const gear_orange = [
   },
   {
     "Id": "52312",
-    "Name": "Boots of Silent Night 🤔1️⃣",
+    "Name": "Boots of Silent Night",
     "Power": "733",
     "Attributes": "2700 HP, 300 ATK, 120 DEF"
   },
@@ -709,7 +709,7 @@ const gear_orange = [
   },
   {
     "Id": "52332",
-    "Name": "Traveler's Boots 🤔1️⃣",
+    "Name": "Traveler's Boots",
     "Power": "733",
     "Attributes": "2700 HP, 300 ATK, 120 DEF"
   },
@@ -991,7 +991,7 @@ const gear_orange = [
   },
   {
     "Id": "53211",
-    "Name": "🏗 ORANGE 3* ARMOR WISDOM UNDEAD",
+    "Name": "Nightmare Top",
     "Power": "1664",
     "Attributes": "10000 HP, 470 DEF"
   },
@@ -1051,7 +1051,7 @@ const gear_orange = [
   },
   {
     "Id": "53242",
-    "Name": "🏗 ORANGE 3* ARMOR AGILITY SHADOW",
+    "Name": "Scorch Vest",
     "Power": "1882",
     "Attributes": "11000 HP, 560 DEF"
   },
@@ -1105,7 +1105,7 @@ const gear_orange = [
   },
   {
     "Id": "53312",
-    "Name": "🏗 ORANGE 3* SHOE AGILITY UNDEAD",
+    "Name": "Dark Footwraps",
     "Power": "1199",
     "Attributes": "4400 HP, 500 ATK, 190 DEF"
   },
